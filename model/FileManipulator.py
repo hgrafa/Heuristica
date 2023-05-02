@@ -13,7 +13,8 @@ class FileManipulator:
         self.disponibilidades = []
 
         matriz = []
-        arquivo = f'C:\Aulas\Alunos\Python & R\Joice\heuristica\heuristica\\test\\{nome_do_arquivo}'
+
+        arquivo = f'C:\dev\openProjects\heuristica\\test\{nome_do_arquivo}'
 
         with open(arquivo, 'r') as arquivo:
             count = 0

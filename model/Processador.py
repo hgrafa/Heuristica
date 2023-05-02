@@ -31,6 +31,10 @@ class Processador:
 
     def inicializar_equipes(self):
         quantidade = len(self.dados.configuracoes[0])
+        tamanho = len(self.dados.disponibilidades)
+
+        assert quantidade == 3, f'a quantidade está valendo {quantidade}!'
+        assert tamanho == 3, f'a disponibilidades possui tamanho {tamanho}'
 
         for i in range(quantidade):
             equipe = Equipe(
