@@ -21,15 +21,15 @@ class Equipe:
 
     @property
     def tempo_de_processamento(self):
-        ultima_pos = len(self.historico) - 1
-        return self.historico[ultima_pos] if ultima_pos >= 0 else 0
+        tempo_de_processamento = self.historico[-1]
+        return tempo_de_processamento if tempo_de_processamento >= 0 else 0
 
     # ------------------------------------------
 
     @property
     def tempo_livre(self):
         disponibilidade = self.disponibilidade
-        tempo_atual = self.historico[-1]
+        tempo_atual = self.historico[-1]  # pega o ultimo historico
         return disponibilidade - tempo_atual
 
     # ------------------------------------------
@@ -38,14 +38,23 @@ class Equipe:
         if not eh_maquina(nova_maquina):
             return
 
-        self.maquinas.append(nova_maquina)
-        self.__ajusta_janela_inicial__(nova_maquina)
+        janela_final_valida = self.esta_dentro_da_janela_final(nova_maquina)
         self.__ajusta_tempo_janela_final__(nova_maquina)
+
+        if not janela_final_valida:
+            return False
+
+        # TODO ! continuar para janela inicial
+        self.maquinas.append(nova_maquina)
 
     # ------------------------------------------
 
-    def __ajusta_tempo_janela_final__(self, nova_maquina):
-        self.janela_final[nova_maquina.index] -= nova_maquina.tempo_processamento
+    def esta_dentro_da_janela_final(self, nova_maquina):
+        janela_final = self.janela_final[nova_maquina.index]
+        tempo_atual = self.tempo_de_processamento
+        tempo_com_nova_maquina = tempo_atual + nova_maquina.tempo_processamento
+
+        return tempo_com_nova_maquina <= janela_final
 
     # ------------------------------------------
 
