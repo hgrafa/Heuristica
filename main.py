@@ -100,9 +100,9 @@ def simulated_annealing(istance_id, temperature, cooling_rate, freeze_temperatur
 
 print("# Heuristica\n")
 
-# sol_inicial, sol_final = simulated_annealing(2, 100, 0.6, 20, 10)
+sol_inicial, sol_final = simulated_annealing(1, 100, 0.6, 20, 10)
 
-sol_inicial, _ = initial_solution('instancia2')
+# sol_inicial, _ = initial_solution('instancia11')
 
 tempo_max_inicial = -1
 tempo_max_final = -1
@@ -111,15 +111,15 @@ for equipe in sol_inicial:
     if equipe.tempo_de_processamento > tempo_max_inicial:
         tempo_max_inicial = equipe.tempo_de_processamento
 
-# print(f"**TEMPO MAXIMO SOL INICIAL =** {tempo_max_inicial}")
+print(f"**TEMPO MAXIMO SOL INICIAL =** {tempo_max_inicial}")
 
-# for equipe in sol_final:
-#     if equipe.tempo_de_processamento > tempo_max_final:
-#         tempo_max_final = equipe.tempo_de_processamento
+for equipe in sol_final:
+    if equipe.tempo_de_processamento > tempo_max_final:
+        tempo_max_final = equipe.tempo_de_processamento
 
-# for equipe in sol_final:
-#     print(f"## Equipe {equipe.id}")
-#     print(equipe.tabela_maquinas())
+for equipe in sol_final:
+    print(f"## Equipe {equipe.id}")
+    print(equipe.tabela_maquinas())
 
-# print(f"TEMPO MAX INICIAL: {tempo_max_inicial}\n")
-# print(f"TEMPO MAX FINAL: {tempo_max_final}")
+print(f"TEMPO MAX INICIAL: {tempo_max_inicial}\n")
+print(f"TEMPO MAX FINAL: {tempo_max_final}")
