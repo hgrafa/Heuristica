@@ -1,0 +1,6629 @@
+# Heuristica
+
+soma: 1 | config = [ X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, ]
+
+- disponibilidade: 1260
+- janela final: 127
+- janela: 1
+- espera: 3
+- tempo_atual: 0
+- tempo_com_maquina: 4
+- pode inserir
+------
+- disponibilidade: 1256
+- janela final: 119
+- janela: 4
+- espera: 0
+- tempo_atual: 4
+- tempo_com_maquina: 8
+- pode inserir
+------
+- disponibilidade: 1252
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 8
+- tempo_com_maquina: 10
+- pode inserir
+------
+- disponibilidade: 1250
+- janela final: 135
+- janela: 1
+- espera: 0
+- tempo_atual: 10
+- tempo_com_maquina: 11
+- pode inserir
+------
+- disponibilidade: 1249
+- janela final: 127
+- janela: 5
+- espera: 0
+- tempo_atual: 11
+- tempo_com_maquina: 16
+- pode inserir
+------
+- disponibilidade: 1244
+- janela final: 119
+- janela: 8
+- espera: 0
+- tempo_atual: 16
+- tempo_com_maquina: 24
+- pode inserir
+------
+- disponibilidade: 1236
+- janela final: 125
+- janela: 4
+- espera: 0
+- tempo_atual: 24
+- tempo_com_maquina: 28
+- pode inserir
+------
+- disponibilidade: 1232
+- janela final: 135
+- janela: 2
+- espera: 0
+- tempo_atual: 28
+- tempo_com_maquina: 30
+- pode inserir
+------
+- disponibilidade: 1230
+- janela final: 120
+- janela: 3
+- espera: 0
+- tempo_atual: 30
+- tempo_com_maquina: 33
+- pode inserir
+------
+- disponibilidade: 1227
+- janela final: 124
+- janela: 5
+- espera: 0
+- tempo_atual: 33
+- tempo_com_maquina: 38
+- pode inserir
+------
+- disponibilidade: 1222
+- janela final: 123
+- janela: 2
+- espera: 0
+- tempo_atual: 38
+- tempo_com_maquina: 40
+- pode inserir
+------
+- disponibilidade: 1220
+- janela final: 125
+- janela: 5
+- espera: 0
+- tempo_atual: 40
+- tempo_com_maquina: 45
+- pode inserir
+------
+- disponibilidade: 1215
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 45
+- tempo_com_maquina: 47
+- pode inserir
+------
+- disponibilidade: 1213
+- janela final: 125
+- janela: 4
+- espera: 0
+- tempo_atual: 47
+- tempo_com_maquina: 51
+- pode inserir
+------
+- disponibilidade: 1209
+- janela final: 125
+- janela: 4
+- espera: 0
+- tempo_atual: 51
+- tempo_com_maquina: 55
+- pode inserir
+------
+- disponibilidade: 1205
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 55
+- tempo_com_maquina: 56
+- pode inserir
+------
+- disponibilidade: 1204
+- janela final: 125
+- janela: 3
+- espera: 0
+- tempo_atual: 56
+- tempo_com_maquina: 59
+- pode inserir
+------
+- disponibilidade: 1201
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 59
+- tempo_com_maquina: 61
+- pode inserir
+------
+- disponibilidade: 1199
+- janela final: 145
+- janela: 1
+- espera: 0
+- tempo_atual: 61
+- tempo_com_maquina: 62
+- pode inserir
+------
+- disponibilidade: 1198
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 62
+- tempo_com_maquina: 63
+- pode inserir
+------
+- disponibilidade: 1197
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 63
+- tempo_com_maquina: 64
+- pode inserir
+------
+- disponibilidade: 1196
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 64
+- tempo_com_maquina: 65
+- pode inserir
+------
+- disponibilidade: 1195
+- janela final: 200
+- janela: 4
+- espera: 0
+- tempo_atual: 65
+- tempo_com_maquina: 69
+- pode inserir
+------
+- disponibilidade: 1191
+- janela final: 150
+- janela: 1
+- espera: 0
+- tempo_atual: 69
+- tempo_com_maquina: 70
+- pode inserir
+------
+- disponibilidade: 1190
+- janela final: 150
+- janela: 1
+- espera: 0
+- tempo_atual: 70
+- tempo_com_maquina: 71
+- pode inserir
+------
+- disponibilidade: 1189
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 71
+- tempo_com_maquina: 73
+- pode inserir
+------
+- disponibilidade: 1187
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 73
+- tempo_com_maquina: 75
+- pode inserir
+------
+- disponibilidade: 1185
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 75
+- tempo_com_maquina: 77
+- pode inserir
+------
+- disponibilidade: 1183
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 77
+- tempo_com_maquina: 79
+- pode inserir
+------
+- disponibilidade: 1181
+- janela final: 150
+- janela: 1
+- espera: 0
+- tempo_atual: 79
+- tempo_com_maquina: 80
+- pode inserir
+------
+soma: 1 | config = [ X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X,  , X, X, X, X, X, X, X, ]
+
+- disponibilidade: 1180
+- janela final: 127
+- janela: 1
+- espera: 0
+- tempo_atual: 80
+- tempo_com_maquina: 81
+- pode inserir
+------
+- disponibilidade: 1179
+- janela final: 119
+- janela: 4
+- espera: 0
+- tempo_atual: 81
+- tempo_com_maquina: 85
+- pode inserir
+------
+- disponibilidade: 1175
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 85
+- tempo_com_maquina: 87
+- pode inserir
+------
+- disponibilidade: 1173
+- janela final: 135
+- janela: 1
+- espera: 0
+- tempo_atual: 87
+- tempo_com_maquina: 88
+- pode inserir
+------
+- disponibilidade: 1172
+- janela final: 127
+- janela: 5
+- espera: 0
+- tempo_atual: 88
+- tempo_com_maquina: 93
+- pode inserir
+------
+- disponibilidade: 1167
+- janela final: 119
+- janela: 8
+- espera: 0
+- tempo_atual: 93
+- tempo_com_maquina: 101
+- pode inserir
+------
+- disponibilidade: 1159
+- janela final: 125
+- janela: 4
+- espera: 0
+- tempo_atual: 101
+- tempo_com_maquina: 105
+- pode inserir
+------
+- disponibilidade: 1155
+- janela final: 135
+- janela: 2
+- espera: 0
+- tempo_atual: 105
+- tempo_com_maquina: 107
+- pode inserir
+------
+- disponibilidade: 1153
+- janela final: 120
+- janela: 3
+- espera: 0
+- tempo_atual: 107
+- tempo_com_maquina: 110
+- pode inserir
+------
+- disponibilidade: 1150
+- janela final: 124
+- janela: 5
+- espera: 0
+- tempo_atual: 110
+- tempo_com_maquina: 115
+- pode inserir
+------
+- disponibilidade: 1145
+- janela final: 123
+- janela: 2
+- espera: 0
+- tempo_atual: 115
+- tempo_com_maquina: 117
+- pode inserir
+------
+- disponibilidade: 1143
+- janela final: 125
+- janela: 5
+- espera: 0
+- tempo_atual: 117
+- tempo_com_maquina: 122
+- pode inserir
+------
+- disponibilidade: 1138
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 122
+- tempo_com_maquina: 124
+- pode inserir
+------
+- disponibilidade: 1136
+- janela final: 125
+- janela: 4
+- espera: 0
+- tempo_atual: 124
+- tempo_com_maquina: 128
+- nao cabe no tempo
+------
+- disponibilidade: 1136
+- janela final: 125
+- janela: 4
+- espera: 0
+- tempo_atual: 124
+- tempo_com_maquina: 128
+- nao cabe no tempo
+------
+- disponibilidade: 1136
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 124
+- tempo_com_maquina: 125
+- pode inserir
+------
+- disponibilidade: 1135
+- janela final: 125
+- janela: 3
+- espera: 0
+- tempo_atual: 125
+- tempo_com_maquina: 128
+- nao cabe no tempo
+------
+- disponibilidade: 1135
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 125
+- tempo_com_maquina: 127
+- nao cabe no tempo
+------
+- disponibilidade: 1135
+- janela final: 145
+- janela: 1
+- espera: 0
+- tempo_atual: 125
+- tempo_com_maquina: 126
+- pode inserir
+------
+- disponibilidade: 1134
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 126
+- tempo_com_maquina: 127
+- pode inserir
+------
+- disponibilidade: 1133
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 127
+- tempo_com_maquina: 128
+- pode inserir
+------
+- disponibilidade: 1132
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 128
+- tempo_com_maquina: 129
+- pode inserir
+------
+- disponibilidade: 1131
+- janela final: 200
+- janela: 4
+- espera: 0
+- tempo_atual: 129
+- tempo_com_maquina: 133
+- pode inserir
+------
+- disponibilidade: 1127
+- janela final: 150
+- janela: 1
+- espera: 0
+- tempo_atual: 133
+- tempo_com_maquina: 134
+- pode inserir
+------
+- disponibilidade: 1126
+- janela final: 150
+- janela: 1
+- espera: 0
+- tempo_atual: 134
+- tempo_com_maquina: 135
+- pode inserir
+------
+- disponibilidade: 1125
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 135
+- tempo_com_maquina: 137
+- pode inserir
+------
+- disponibilidade: 1123
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 137
+- tempo_com_maquina: 139
+- pode inserir
+------
+- disponibilidade: 1121
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 139
+- tempo_com_maquina: 141
+- pode inserir
+------
+- disponibilidade: 1119
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 141
+- tempo_com_maquina: 143
+- pode inserir
+------
+- disponibilidade: 1117
+- janela final: 150
+- janela: 1
+- espera: 0
+- tempo_atual: 143
+- tempo_com_maquina: 144
+- pode inserir
+------
+soma: 1 | config = [ X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X,  , X, X, X, X, X, X,  , ]
+
+soma: 2 | config = [ X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X,  , X, X, X, X, X, X,  , ]
+
+- disponibilidade: 1116
+- janela final: 127
+- janela: 3
+- espera: 0
+- tempo_atual: 144
+- tempo_com_maquina: 147
+- nao cabe no tempo
+------
+- disponibilidade: 1116
+- janela final: 119
+- janela: 3
+- espera: 0
+- tempo_atual: 144
+- tempo_com_maquina: 147
+- nao cabe no tempo
+------
+- disponibilidade: 1116
+- janela final: 125
+- janela: 4
+- espera: 0
+- tempo_atual: 144
+- tempo_com_maquina: 148
+- nao cabe no tempo
+------
+- disponibilidade: 1116
+- janela final: 135
+- janela: 1
+- espera: 0
+- tempo_atual: 144
+- tempo_com_maquina: 145
+- nao cabe no tempo
+------
+- disponibilidade: 1116
+- janela final: 127
+- janela: 2
+- espera: 0
+- tempo_atual: 144
+- tempo_com_maquina: 146
+- nao cabe no tempo
+------
+- disponibilidade: 1116
+- janela final: 119
+- janela: 3
+- espera: 0
+- tempo_atual: 144
+- tempo_com_maquina: 147
+- nao cabe no tempo
+------
+- disponibilidade: 1116
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 144
+- tempo_com_maquina: 145
+- nao cabe no tempo
+------
+- disponibilidade: 1116
+- janela final: 135
+- janela: 1
+- espera: 0
+- tempo_atual: 144
+- tempo_com_maquina: 145
+- nao cabe no tempo
+------
+- disponibilidade: 1116
+- janela final: 120
+- janela: 1
+- espera: 0
+- tempo_atual: 144
+- tempo_com_maquina: 145
+- nao cabe no tempo
+------
+- disponibilidade: 1116
+- janela final: 124
+- janela: 1
+- espera: 0
+- tempo_atual: 144
+- tempo_com_maquina: 145
+- nao cabe no tempo
+------
+- disponibilidade: 1116
+- janela final: 123
+- janela: 1
+- espera: 0
+- tempo_atual: 144
+- tempo_com_maquina: 145
+- nao cabe no tempo
+------
+- disponibilidade: 1116
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 144
+- tempo_com_maquina: 146
+- nao cabe no tempo
+------
+- disponibilidade: 1116
+- janela final: 125
+- janela: 8
+- espera: 0
+- tempo_atual: 144
+- tempo_com_maquina: 152
+- nao cabe no tempo
+------
+- disponibilidade: 1116
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 144
+- tempo_com_maquina: 145
+- nao cabe no tempo
+------
+- disponibilidade: 1116
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 144
+- tempo_com_maquina: 145
+- nao cabe no tempo
+------
+- disponibilidade: 1116
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 144
+- tempo_com_maquina: 146
+- nao cabe no tempo
+------
+- disponibilidade: 1116
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 144
+- tempo_com_maquina: 146
+- nao cabe no tempo
+------
+- disponibilidade: 1116
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 144
+- tempo_com_maquina: 146
+- nao cabe no tempo
+------
+- disponibilidade: 1116
+- janela final: 145
+- janela: 1
+- espera: 0
+- tempo_atual: 144
+- tempo_com_maquina: 145
+- pode inserir
+------
+- disponibilidade: 1115
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 145
+- tempo_com_maquina: 146
+- pode inserir
+------
+- disponibilidade: 1114
+- janela final: 200
+- janela: 4
+- espera: 0
+- tempo_atual: 146
+- tempo_com_maquina: 150
+- pode inserir
+------
+- disponibilidade: 1110
+- janela final: 200
+- janela: 2
+- espera: 0
+- tempo_atual: 150
+- tempo_com_maquina: 152
+- pode inserir
+------
+- disponibilidade: 1108
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 152
+- tempo_com_maquina: 153
+- pode inserir
+------
+- disponibilidade: 1107
+- janela final: 150
+- janela: 4
+- espera: 0
+- tempo_atual: 153
+- tempo_com_maquina: 157
+- nao cabe no tempo
+------
+- disponibilidade: 1107
+- janela final: 150
+- janela: 4
+- espera: 0
+- tempo_atual: 153
+- tempo_com_maquina: 157
+- nao cabe no tempo
+------
+- disponibilidade: 1107
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 153
+- tempo_com_maquina: 155
+- nao cabe no tempo
+------
+- disponibilidade: 1107
+- janela final: 150
+- janela: 5
+- espera: 0
+- tempo_atual: 153
+- tempo_com_maquina: 158
+- nao cabe no tempo
+------
+- disponibilidade: 1107
+- janela final: 150
+- janela: 4
+- espera: 0
+- tempo_atual: 153
+- tempo_com_maquina: 157
+- nao cabe no tempo
+------
+- disponibilidade: 1107
+- janela final: 150
+- janela: 6
+- espera: 0
+- tempo_atual: 153
+- tempo_com_maquina: 159
+- nao cabe no tempo
+------
+- disponibilidade: 1107
+- janela final: 150
+- janela: 3
+- espera: 0
+- tempo_atual: 153
+- tempo_com_maquina: 156
+- nao cabe no tempo
+------
+soma: 2 | config = [ X, X, X, X, X, X, X, X,  , X, X, X, X, X, X, X, X, X,  , X, X, X, X, X, X,  , ]
+
+- disponibilidade: 1250
+- janela final: 127
+- janela: 1
+- espera: 3
+- tempo_atual: 0
+- tempo_com_maquina: 4
+- pode inserir
+------
+- disponibilidade: 1246
+- janela final: 119
+- janela: 1
+- espera: 0
+- tempo_atual: 4
+- tempo_com_maquina: 5
+- pode inserir
+------
+- disponibilidade: 1245
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 5
+- tempo_com_maquina: 6
+- pode inserir
+------
+- disponibilidade: 1244
+- janela final: 135
+- janela: 2
+- espera: 1
+- tempo_atual: 6
+- tempo_com_maquina: 9
+- pode inserir
+------
+- disponibilidade: 1241
+- janela final: 127
+- janela: 1
+- espera: 0
+- tempo_atual: 9
+- tempo_com_maquina: 10
+- pode inserir
+------
+- disponibilidade: 1240
+- janela final: 119
+- janela: 1
+- espera: 0
+- tempo_atual: 10
+- tempo_com_maquina: 11
+- pode inserir
+------
+- disponibilidade: 1239
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 11
+- tempo_com_maquina: 12
+- pode inserir
+------
+- disponibilidade: 1238
+- janela final: 135
+- janela: 3
+- espera: 0
+- tempo_atual: 12
+- tempo_com_maquina: 15
+- pode inserir
+------
+- disponibilidade: 1235
+- janela final: 120
+- janela: 6
+- espera: 0
+- tempo_atual: 15
+- tempo_com_maquina: 21
+- pode inserir
+------
+- disponibilidade: 1229
+- janela final: 124
+- janela: 5
+- espera: 0
+- tempo_atual: 21
+- tempo_com_maquina: 26
+- pode inserir
+------
+- disponibilidade: 1224
+- janela final: 123
+- janela: 2
+- espera: 0
+- tempo_atual: 26
+- tempo_com_maquina: 28
+- pode inserir
+------
+- disponibilidade: 1222
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 28
+- tempo_com_maquina: 29
+- pode inserir
+------
+- disponibilidade: 1221
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 29
+- tempo_com_maquina: 30
+- pode inserir
+------
+- disponibilidade: 1220
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 30
+- tempo_com_maquina: 31
+- pode inserir
+------
+- disponibilidade: 1219
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 31
+- tempo_com_maquina: 32
+- pode inserir
+------
+- disponibilidade: 1218
+- janela final: 125
+- janela: 5
+- espera: 0
+- tempo_atual: 32
+- tempo_com_maquina: 37
+- pode inserir
+------
+- disponibilidade: 1213
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 37
+- tempo_com_maquina: 39
+- pode inserir
+------
+- disponibilidade: 1211
+- janela final: 125
+- janela: 3
+- espera: 0
+- tempo_atual: 39
+- tempo_com_maquina: 42
+- pode inserir
+------
+- disponibilidade: 1208
+- janela final: 145
+- janela: 1
+- espera: 0
+- tempo_atual: 42
+- tempo_com_maquina: 43
+- pode inserir
+------
+- disponibilidade: 1207
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 43
+- tempo_com_maquina: 44
+- pode inserir
+------
+- disponibilidade: 1206
+- janela final: 200
+- janela: 2
+- espera: 0
+- tempo_atual: 44
+- tempo_com_maquina: 46
+- pode inserir
+------
+- disponibilidade: 1204
+- janela final: 200
+- janela: 3
+- espera: 0
+- tempo_atual: 46
+- tempo_com_maquina: 49
+- pode inserir
+------
+- disponibilidade: 1201
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 49
+- tempo_com_maquina: 50
+- pode inserir
+------
+- disponibilidade: 1200
+- janela final: 150
+- janela: 4
+- espera: 0
+- tempo_atual: 50
+- tempo_com_maquina: 54
+- pode inserir
+------
+- disponibilidade: 1196
+- janela final: 150
+- janela: 3
+- espera: 0
+- tempo_atual: 54
+- tempo_com_maquina: 57
+- pode inserir
+------
+- disponibilidade: 1193
+- janela final: 150
+- janela: 4
+- espera: 0
+- tempo_atual: 57
+- tempo_com_maquina: 61
+- pode inserir
+------
+- disponibilidade: 1189
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 61
+- tempo_com_maquina: 63
+- pode inserir
+------
+- disponibilidade: 1187
+- janela final: 150
+- janela: 3
+- espera: 0
+- tempo_atual: 63
+- tempo_com_maquina: 66
+- pode inserir
+------
+- disponibilidade: 1184
+- janela final: 150
+- janela: 3
+- espera: 0
+- tempo_atual: 66
+- tempo_com_maquina: 69
+- pode inserir
+------
+- disponibilidade: 1181
+- janela final: 150
+- janela: 3
+- espera: 0
+- tempo_atual: 69
+- tempo_com_maquina: 72
+- pode inserir
+------
+soma: 2 | config = [ X, X, X, X, X, X, X, X,  , X, X, X, X, X, X,  , X, X,  , X, X, X, X, X, X,  , ]
+
+- disponibilidade: 1107
+- janela final: 127
+- janela: 3
+- espera: 0
+- tempo_atual: 153
+- tempo_com_maquina: 156
+- nao cabe no tempo
+------
+- disponibilidade: 1107
+- janela final: 119
+- janela: 3
+- espera: 0
+- tempo_atual: 153
+- tempo_com_maquina: 156
+- nao cabe no tempo
+------
+- disponibilidade: 1107
+- janela final: 125
+- janela: 4
+- espera: 0
+- tempo_atual: 153
+- tempo_com_maquina: 157
+- nao cabe no tempo
+------
+- disponibilidade: 1107
+- janela final: 135
+- janela: 1
+- espera: 0
+- tempo_atual: 153
+- tempo_com_maquina: 154
+- nao cabe no tempo
+------
+- disponibilidade: 1107
+- janela final: 127
+- janela: 2
+- espera: 0
+- tempo_atual: 153
+- tempo_com_maquina: 155
+- nao cabe no tempo
+------
+- disponibilidade: 1107
+- janela final: 119
+- janela: 3
+- espera: 0
+- tempo_atual: 153
+- tempo_com_maquina: 156
+- nao cabe no tempo
+------
+- disponibilidade: 1107
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 153
+- tempo_com_maquina: 154
+- nao cabe no tempo
+------
+- disponibilidade: 1107
+- janela final: 135
+- janela: 1
+- espera: 0
+- tempo_atual: 153
+- tempo_com_maquina: 154
+- nao cabe no tempo
+------
+- disponibilidade: 1107
+- janela final: 120
+- janela: 1
+- espera: 0
+- tempo_atual: 153
+- tempo_com_maquina: 154
+- nao cabe no tempo
+------
+- disponibilidade: 1107
+- janela final: 124
+- janela: 1
+- espera: 0
+- tempo_atual: 153
+- tempo_com_maquina: 154
+- nao cabe no tempo
+------
+- disponibilidade: 1107
+- janela final: 123
+- janela: 1
+- espera: 0
+- tempo_atual: 153
+- tempo_com_maquina: 154
+- nao cabe no tempo
+------
+- disponibilidade: 1107
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 153
+- tempo_com_maquina: 155
+- nao cabe no tempo
+------
+- disponibilidade: 1107
+- janela final: 125
+- janela: 8
+- espera: 0
+- tempo_atual: 153
+- tempo_com_maquina: 161
+- nao cabe no tempo
+------
+- disponibilidade: 1107
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 153
+- tempo_com_maquina: 154
+- nao cabe no tempo
+------
+- disponibilidade: 1107
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 153
+- tempo_com_maquina: 154
+- nao cabe no tempo
+------
+- disponibilidade: 1107
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 153
+- tempo_com_maquina: 155
+- nao cabe no tempo
+------
+- disponibilidade: 1107
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 153
+- tempo_com_maquina: 155
+- nao cabe no tempo
+------
+- disponibilidade: 1107
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 153
+- tempo_com_maquina: 155
+- nao cabe no tempo
+------
+- disponibilidade: 1107
+- janela final: 145
+- janela: 1
+- espera: 0
+- tempo_atual: 153
+- tempo_com_maquina: 154
+- nao cabe no tempo
+------
+- disponibilidade: 1107
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 153
+- tempo_com_maquina: 154
+- pode inserir
+------
+- disponibilidade: 1106
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 154
+- tempo_com_maquina: 155
+- pode inserir
+------
+- disponibilidade: 1105
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 155
+- tempo_com_maquina: 156
+- pode inserir
+------
+- disponibilidade: 1104
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 156
+- tempo_com_maquina: 157
+- pode inserir
+------
+- disponibilidade: 1103
+- janela final: 150
+- janela: 4
+- espera: 0
+- tempo_atual: 157
+- tempo_com_maquina: 161
+- nao cabe no tempo
+------
+- disponibilidade: 1103
+- janela final: 150
+- janela: 1
+- espera: 0
+- tempo_atual: 157
+- tempo_com_maquina: 158
+- nao cabe no tempo
+------
+- disponibilidade: 1103
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 157
+- tempo_com_maquina: 159
+- nao cabe no tempo
+------
+- disponibilidade: 1103
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 157
+- tempo_com_maquina: 159
+- nao cabe no tempo
+------
+- disponibilidade: 1103
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 157
+- tempo_com_maquina: 159
+- nao cabe no tempo
+------
+- disponibilidade: 1103
+- janela final: 150
+- janela: 3
+- espera: 0
+- tempo_atual: 157
+- tempo_com_maquina: 160
+- nao cabe no tempo
+------
+- disponibilidade: 1103
+- janela final: 150
+- janela: 1
+- espera: 0
+- tempo_atual: 157
+- tempo_com_maquina: 158
+- nao cabe no tempo
+------
+soma: 2 | config = [ X, X, X, X, X, X, X, X,  , X, X, X, X, X, X,  ,  , X,  , X, X, X, X, X, X,  , ]
+
+- disponibilidade: 1178
+- janela final: 127
+- janela: 2
+- espera: 0
+- tempo_atual: 72
+- tempo_com_maquina: 74
+- pode inserir
+------
+- disponibilidade: 1176
+- janela final: 119
+- janela: 3
+- espera: 0
+- tempo_atual: 74
+- tempo_com_maquina: 77
+- pode inserir
+------
+- disponibilidade: 1173
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 77
+- tempo_com_maquina: 78
+- pode inserir
+------
+- disponibilidade: 1172
+- janela final: 135
+- janela: 1
+- espera: 0
+- tempo_atual: 78
+- tempo_com_maquina: 79
+- pode inserir
+------
+- disponibilidade: 1171
+- janela final: 127
+- janela: 2
+- espera: 0
+- tempo_atual: 79
+- tempo_com_maquina: 81
+- pode inserir
+------
+- disponibilidade: 1169
+- janela final: 119
+- janela: 3
+- espera: 0
+- tempo_atual: 81
+- tempo_com_maquina: 84
+- pode inserir
+------
+- disponibilidade: 1166
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 84
+- tempo_com_maquina: 85
+- pode inserir
+------
+- disponibilidade: 1165
+- janela final: 135
+- janela: 1
+- espera: 0
+- tempo_atual: 85
+- tempo_com_maquina: 86
+- pode inserir
+------
+- disponibilidade: 1164
+- janela final: 120
+- janela: 2
+- espera: 0
+- tempo_atual: 86
+- tempo_com_maquina: 88
+- pode inserir
+------
+- disponibilidade: 1162
+- janela final: 124
+- janela: 3
+- espera: 0
+- tempo_atual: 88
+- tempo_com_maquina: 91
+- pode inserir
+------
+- disponibilidade: 1159
+- janela final: 123
+- janela: 1
+- espera: 0
+- tempo_atual: 91
+- tempo_com_maquina: 92
+- pode inserir
+------
+- disponibilidade: 1158
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 92
+- tempo_com_maquina: 93
+- pode inserir
+------
+- disponibilidade: 1157
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 93
+- tempo_com_maquina: 94
+- pode inserir
+------
+- disponibilidade: 1156
+- janela final: 125
+- janela: 5
+- espera: 0
+- tempo_atual: 94
+- tempo_com_maquina: 99
+- pode inserir
+------
+- disponibilidade: 1151
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 99
+- tempo_com_maquina: 101
+- pode inserir
+------
+- disponibilidade: 1149
+- janela final: 125
+- janela: 7
+- espera: 0
+- tempo_atual: 101
+- tempo_com_maquina: 108
+- pode inserir
+------
+- disponibilidade: 1142
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 108
+- tempo_com_maquina: 110
+- pode inserir
+------
+- disponibilidade: 1140
+- janela final: 125
+- janela: 3
+- espera: 0
+- tempo_atual: 110
+- tempo_com_maquina: 113
+- pode inserir
+------
+- disponibilidade: 1137
+- janela final: 145
+- janela: 1
+- espera: 0
+- tempo_atual: 113
+- tempo_com_maquina: 114
+- pode inserir
+------
+- disponibilidade: 1136
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 114
+- tempo_com_maquina: 115
+- pode inserir
+------
+- disponibilidade: 1135
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 115
+- tempo_com_maquina: 116
+- pode inserir
+------
+- disponibilidade: 1134
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 116
+- tempo_com_maquina: 117
+- pode inserir
+------
+- disponibilidade: 1133
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 117
+- tempo_com_maquina: 118
+- pode inserir
+------
+- disponibilidade: 1132
+- janela final: 150
+- janela: 1
+- espera: 0
+- tempo_atual: 118
+- tempo_com_maquina: 119
+- pode inserir
+------
+- disponibilidade: 1131
+- janela final: 150
+- janela: 4
+- espera: 0
+- tempo_atual: 119
+- tempo_com_maquina: 123
+- pode inserir
+------
+- disponibilidade: 1127
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 123
+- tempo_com_maquina: 125
+- pode inserir
+------
+- disponibilidade: 1125
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 125
+- tempo_com_maquina: 127
+- pode inserir
+------
+- disponibilidade: 1123
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 127
+- tempo_com_maquina: 129
+- pode inserir
+------
+- disponibilidade: 1121
+- janela final: 150
+- janela: 4
+- espera: 0
+- tempo_atual: 129
+- tempo_com_maquina: 133
+- pode inserir
+------
+- disponibilidade: 1117
+- janela final: 150
+- janela: 5
+- espera: 0
+- tempo_atual: 133
+- tempo_com_maquina: 138
+- pode inserir
+------
+soma: 2 | config = [ X, X, X, X, X, X, X, X,  , X, X, X, X, X, X,  ,  ,  ,  , X, X, X, X, X, X,  , ]
+
+- disponibilidade: 1112
+- janela final: 127
+- janela: 1
+- espera: 0
+- tempo_atual: 138
+- tempo_com_maquina: 139
+- nao cabe no tempo
+------
+- disponibilidade: 1112
+- janela final: 119
+- janela: 1
+- espera: 0
+- tempo_atual: 138
+- tempo_com_maquina: 139
+- nao cabe no tempo
+------
+- disponibilidade: 1112
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 138
+- tempo_com_maquina: 139
+- nao cabe no tempo
+------
+- disponibilidade: 1112
+- janela final: 135
+- janela: 2
+- espera: 0
+- tempo_atual: 138
+- tempo_com_maquina: 140
+- nao cabe no tempo
+------
+- disponibilidade: 1112
+- janela final: 127
+- janela: 1
+- espera: 0
+- tempo_atual: 138
+- tempo_com_maquina: 139
+- nao cabe no tempo
+------
+- disponibilidade: 1112
+- janela final: 119
+- janela: 1
+- espera: 0
+- tempo_atual: 138
+- tempo_com_maquina: 139
+- nao cabe no tempo
+------
+- disponibilidade: 1112
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 138
+- tempo_com_maquina: 139
+- nao cabe no tempo
+------
+- disponibilidade: 1112
+- janela final: 135
+- janela: 3
+- espera: 0
+- tempo_atual: 138
+- tempo_com_maquina: 141
+- nao cabe no tempo
+------
+- disponibilidade: 1112
+- janela final: 120
+- janela: 6
+- espera: 0
+- tempo_atual: 138
+- tempo_com_maquina: 144
+- nao cabe no tempo
+------
+- disponibilidade: 1112
+- janela final: 124
+- janela: 5
+- espera: 0
+- tempo_atual: 138
+- tempo_com_maquina: 143
+- nao cabe no tempo
+------
+- disponibilidade: 1112
+- janela final: 123
+- janela: 2
+- espera: 0
+- tempo_atual: 138
+- tempo_com_maquina: 140
+- nao cabe no tempo
+------
+- disponibilidade: 1112
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 138
+- tempo_com_maquina: 139
+- nao cabe no tempo
+------
+- disponibilidade: 1112
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 138
+- tempo_com_maquina: 139
+- nao cabe no tempo
+------
+- disponibilidade: 1112
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 138
+- tempo_com_maquina: 139
+- nao cabe no tempo
+------
+- disponibilidade: 1112
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 138
+- tempo_com_maquina: 139
+- nao cabe no tempo
+------
+- disponibilidade: 1112
+- janela final: 125
+- janela: 5
+- espera: 0
+- tempo_atual: 138
+- tempo_com_maquina: 143
+- nao cabe no tempo
+------
+- disponibilidade: 1112
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 138
+- tempo_com_maquina: 140
+- nao cabe no tempo
+------
+- disponibilidade: 1112
+- janela final: 125
+- janela: 3
+- espera: 0
+- tempo_atual: 138
+- tempo_com_maquina: 141
+- nao cabe no tempo
+------
+- disponibilidade: 1112
+- janela final: 145
+- janela: 1
+- espera: 0
+- tempo_atual: 138
+- tempo_com_maquina: 139
+- pode inserir
+------
+- disponibilidade: 1111
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 139
+- tempo_com_maquina: 140
+- pode inserir
+------
+- disponibilidade: 1110
+- janela final: 200
+- janela: 2
+- espera: 0
+- tempo_atual: 140
+- tempo_com_maquina: 142
+- pode inserir
+------
+- disponibilidade: 1108
+- janela final: 200
+- janela: 3
+- espera: 0
+- tempo_atual: 142
+- tempo_com_maquina: 145
+- pode inserir
+------
+- disponibilidade: 1105
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 145
+- tempo_com_maquina: 146
+- pode inserir
+------
+- disponibilidade: 1104
+- janela final: 150
+- janela: 4
+- espera: 0
+- tempo_atual: 146
+- tempo_com_maquina: 150
+- pode inserir
+------
+- disponibilidade: 1100
+- janela final: 150
+- janela: 3
+- espera: 0
+- tempo_atual: 150
+- tempo_com_maquina: 153
+- nao cabe no tempo
+------
+- disponibilidade: 1100
+- janela final: 150
+- janela: 4
+- espera: 0
+- tempo_atual: 150
+- tempo_com_maquina: 154
+- nao cabe no tempo
+------
+- disponibilidade: 1100
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 150
+- tempo_com_maquina: 152
+- nao cabe no tempo
+------
+- disponibilidade: 1100
+- janela final: 150
+- janela: 3
+- espera: 0
+- tempo_atual: 150
+- tempo_com_maquina: 153
+- nao cabe no tempo
+------
+- disponibilidade: 1100
+- janela final: 150
+- janela: 3
+- espera: 0
+- tempo_atual: 150
+- tempo_com_maquina: 153
+- nao cabe no tempo
+------
+- disponibilidade: 1100
+- janela final: 150
+- janela: 3
+- espera: 0
+- tempo_atual: 150
+- tempo_com_maquina: 153
+- nao cabe no tempo
+------
+soma: 2 | config = [ X, X, X, X, X, X, X, X,  , X, X, X, X, X, X,  ,  ,  ,  , X, X, X,  , X, X,  , ]
+
+- disponibilidade: 1103
+- janela final: 127
+- janela: 3
+- espera: 0
+- tempo_atual: 157
+- tempo_com_maquina: 160
+- nao cabe no tempo
+------
+- disponibilidade: 1103
+- janela final: 119
+- janela: 3
+- espera: 0
+- tempo_atual: 157
+- tempo_com_maquina: 160
+- nao cabe no tempo
+------
+- disponibilidade: 1103
+- janela final: 125
+- janela: 4
+- espera: 0
+- tempo_atual: 157
+- tempo_com_maquina: 161
+- nao cabe no tempo
+------
+- disponibilidade: 1103
+- janela final: 135
+- janela: 1
+- espera: 0
+- tempo_atual: 157
+- tempo_com_maquina: 158
+- nao cabe no tempo
+------
+- disponibilidade: 1103
+- janela final: 127
+- janela: 2
+- espera: 0
+- tempo_atual: 157
+- tempo_com_maquina: 159
+- nao cabe no tempo
+------
+- disponibilidade: 1103
+- janela final: 119
+- janela: 3
+- espera: 0
+- tempo_atual: 157
+- tempo_com_maquina: 160
+- nao cabe no tempo
+------
+- disponibilidade: 1103
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 157
+- tempo_com_maquina: 158
+- nao cabe no tempo
+------
+- disponibilidade: 1103
+- janela final: 135
+- janela: 1
+- espera: 0
+- tempo_atual: 157
+- tempo_com_maquina: 158
+- nao cabe no tempo
+------
+- disponibilidade: 1103
+- janela final: 120
+- janela: 1
+- espera: 0
+- tempo_atual: 157
+- tempo_com_maquina: 158
+- nao cabe no tempo
+------
+- disponibilidade: 1103
+- janela final: 124
+- janela: 1
+- espera: 0
+- tempo_atual: 157
+- tempo_com_maquina: 158
+- nao cabe no tempo
+------
+- disponibilidade: 1103
+- janela final: 123
+- janela: 1
+- espera: 0
+- tempo_atual: 157
+- tempo_com_maquina: 158
+- nao cabe no tempo
+------
+- disponibilidade: 1103
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 157
+- tempo_com_maquina: 159
+- nao cabe no tempo
+------
+- disponibilidade: 1103
+- janela final: 125
+- janela: 8
+- espera: 0
+- tempo_atual: 157
+- tempo_com_maquina: 165
+- nao cabe no tempo
+------
+- disponibilidade: 1103
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 157
+- tempo_com_maquina: 158
+- nao cabe no tempo
+------
+- disponibilidade: 1103
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 157
+- tempo_com_maquina: 158
+- nao cabe no tempo
+------
+- disponibilidade: 1103
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 157
+- tempo_com_maquina: 159
+- nao cabe no tempo
+------
+- disponibilidade: 1103
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 157
+- tempo_com_maquina: 159
+- nao cabe no tempo
+------
+- disponibilidade: 1103
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 157
+- tempo_com_maquina: 159
+- nao cabe no tempo
+------
+- disponibilidade: 1103
+- janela final: 145
+- janela: 1
+- espera: 0
+- tempo_atual: 157
+- tempo_com_maquina: 158
+- nao cabe no tempo
+------
+- disponibilidade: 1103
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 157
+- tempo_com_maquina: 158
+- pode inserir
+------
+- disponibilidade: 1102
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 158
+- tempo_com_maquina: 159
+- pode inserir
+------
+- disponibilidade: 1101
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 159
+- tempo_com_maquina: 160
+- pode inserir
+------
+- disponibilidade: 1100
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 160
+- tempo_com_maquina: 161
+- pode inserir
+------
+- disponibilidade: 1099
+- janela final: 150
+- janela: 4
+- espera: 0
+- tempo_atual: 161
+- tempo_com_maquina: 165
+- nao cabe no tempo
+------
+- disponibilidade: 1099
+- janela final: 150
+- janela: 1
+- espera: 0
+- tempo_atual: 161
+- tempo_com_maquina: 162
+- nao cabe no tempo
+------
+- disponibilidade: 1099
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 161
+- tempo_com_maquina: 163
+- nao cabe no tempo
+------
+- disponibilidade: 1099
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 161
+- tempo_com_maquina: 163
+- nao cabe no tempo
+------
+- disponibilidade: 1099
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 161
+- tempo_com_maquina: 163
+- nao cabe no tempo
+------
+- disponibilidade: 1099
+- janela final: 150
+- janela: 3
+- espera: 0
+- tempo_atual: 161
+- tempo_com_maquina: 164
+- nao cabe no tempo
+------
+- disponibilidade: 1099
+- janela final: 150
+- janela: 1
+- espera: 0
+- tempo_atual: 161
+- tempo_com_maquina: 162
+- nao cabe no tempo
+------
+soma: 2 | config = [ X, X, X, X, X, X, X, X,  , X, X, X, X, X, X,  ,  ,  ,  , X, X, X,  ,  , X,  , ]
+
+- disponibilidade: 1100
+- janela final: 127
+- janela: 2
+- espera: 0
+- tempo_atual: 150
+- tempo_com_maquina: 152
+- nao cabe no tempo
+------
+- disponibilidade: 1100
+- janela final: 119
+- janela: 3
+- espera: 0
+- tempo_atual: 150
+- tempo_com_maquina: 153
+- nao cabe no tempo
+------
+- disponibilidade: 1100
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 150
+- tempo_com_maquina: 151
+- nao cabe no tempo
+------
+- disponibilidade: 1100
+- janela final: 135
+- janela: 1
+- espera: 0
+- tempo_atual: 150
+- tempo_com_maquina: 151
+- nao cabe no tempo
+------
+- disponibilidade: 1100
+- janela final: 127
+- janela: 2
+- espera: 0
+- tempo_atual: 150
+- tempo_com_maquina: 152
+- nao cabe no tempo
+------
+- disponibilidade: 1100
+- janela final: 119
+- janela: 3
+- espera: 0
+- tempo_atual: 150
+- tempo_com_maquina: 153
+- nao cabe no tempo
+------
+- disponibilidade: 1100
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 150
+- tempo_com_maquina: 151
+- nao cabe no tempo
+------
+- disponibilidade: 1100
+- janela final: 135
+- janela: 1
+- espera: 0
+- tempo_atual: 150
+- tempo_com_maquina: 151
+- nao cabe no tempo
+------
+- disponibilidade: 1100
+- janela final: 120
+- janela: 2
+- espera: 0
+- tempo_atual: 150
+- tempo_com_maquina: 152
+- nao cabe no tempo
+------
+- disponibilidade: 1100
+- janela final: 124
+- janela: 3
+- espera: 0
+- tempo_atual: 150
+- tempo_com_maquina: 153
+- nao cabe no tempo
+------
+- disponibilidade: 1100
+- janela final: 123
+- janela: 1
+- espera: 0
+- tempo_atual: 150
+- tempo_com_maquina: 151
+- nao cabe no tempo
+------
+- disponibilidade: 1100
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 150
+- tempo_com_maquina: 151
+- nao cabe no tempo
+------
+- disponibilidade: 1100
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 150
+- tempo_com_maquina: 151
+- nao cabe no tempo
+------
+- disponibilidade: 1100
+- janela final: 125
+- janela: 5
+- espera: 0
+- tempo_atual: 150
+- tempo_com_maquina: 155
+- nao cabe no tempo
+------
+- disponibilidade: 1100
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 150
+- tempo_com_maquina: 152
+- nao cabe no tempo
+------
+- disponibilidade: 1100
+- janela final: 125
+- janela: 7
+- espera: 0
+- tempo_atual: 150
+- tempo_com_maquina: 157
+- nao cabe no tempo
+------
+- disponibilidade: 1100
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 150
+- tempo_com_maquina: 152
+- nao cabe no tempo
+------
+- disponibilidade: 1100
+- janela final: 125
+- janela: 3
+- espera: 0
+- tempo_atual: 150
+- tempo_com_maquina: 153
+- nao cabe no tempo
+------
+- disponibilidade: 1100
+- janela final: 145
+- janela: 1
+- espera: 0
+- tempo_atual: 150
+- tempo_com_maquina: 151
+- nao cabe no tempo
+------
+- disponibilidade: 1100
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 150
+- tempo_com_maquina: 151
+- pode inserir
+------
+- disponibilidade: 1099
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 151
+- tempo_com_maquina: 152
+- pode inserir
+------
+- disponibilidade: 1098
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 152
+- tempo_com_maquina: 153
+- pode inserir
+------
+- disponibilidade: 1097
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 153
+- tempo_com_maquina: 154
+- pode inserir
+------
+- disponibilidade: 1096
+- janela final: 150
+- janela: 1
+- espera: 0
+- tempo_atual: 154
+- tempo_com_maquina: 155
+- nao cabe no tempo
+------
+- disponibilidade: 1096
+- janela final: 150
+- janela: 4
+- espera: 0
+- tempo_atual: 154
+- tempo_com_maquina: 158
+- nao cabe no tempo
+------
+- disponibilidade: 1096
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 154
+- tempo_com_maquina: 156
+- nao cabe no tempo
+------
+- disponibilidade: 1096
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 154
+- tempo_com_maquina: 156
+- nao cabe no tempo
+------
+- disponibilidade: 1096
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 154
+- tempo_com_maquina: 156
+- nao cabe no tempo
+------
+- disponibilidade: 1096
+- janela final: 150
+- janela: 4
+- espera: 0
+- tempo_atual: 154
+- tempo_com_maquina: 158
+- nao cabe no tempo
+------
+- disponibilidade: 1096
+- janela final: 150
+- janela: 5
+- espera: 0
+- tempo_atual: 154
+- tempo_com_maquina: 159
+- nao cabe no tempo
+------
+soma: 2 | config = [ X, X, X, X, X, X, X, X,  , X, X, X, X, X, X,  ,  ,  ,  , X, X, X,  ,  ,  ,  , ]
+
+soma: 3 | config = [ X, X, X, X, X, X, X, X,  , X, X, X, X, X, X,  ,  ,  ,  , X, X, X,  ,  ,  ,  , ]
+
+- disponibilidade: 1099
+- janela final: 127
+- janela: 1
+- espera: 0
+- tempo_atual: 161
+- tempo_com_maquina: 162
+- nao cabe no tempo
+------
+- disponibilidade: 1099
+- janela final: 119
+- janela: 4
+- espera: 0
+- tempo_atual: 161
+- tempo_com_maquina: 165
+- nao cabe no tempo
+------
+- disponibilidade: 1099
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 161
+- tempo_com_maquina: 163
+- nao cabe no tempo
+------
+- disponibilidade: 1099
+- janela final: 135
+- janela: 1
+- espera: 0
+- tempo_atual: 161
+- tempo_com_maquina: 162
+- nao cabe no tempo
+------
+- disponibilidade: 1099
+- janela final: 127
+- janela: 5
+- espera: 0
+- tempo_atual: 161
+- tempo_com_maquina: 166
+- nao cabe no tempo
+------
+- disponibilidade: 1099
+- janela final: 119
+- janela: 8
+- espera: 0
+- tempo_atual: 161
+- tempo_com_maquina: 169
+- nao cabe no tempo
+------
+- disponibilidade: 1099
+- janela final: 125
+- janela: 4
+- espera: 0
+- tempo_atual: 161
+- tempo_com_maquina: 165
+- nao cabe no tempo
+------
+- disponibilidade: 1099
+- janela final: 135
+- janela: 2
+- espera: 0
+- tempo_atual: 161
+- tempo_com_maquina: 163
+- nao cabe no tempo
+------
+- disponibilidade: 1099
+- janela final: 120
+- janela: 3
+- espera: 0
+- tempo_atual: 161
+- tempo_com_maquina: 164
+- nao cabe no tempo
+------
+- disponibilidade: 1099
+- janela final: 124
+- janela: 5
+- espera: 0
+- tempo_atual: 161
+- tempo_com_maquina: 166
+- nao cabe no tempo
+------
+- disponibilidade: 1099
+- janela final: 123
+- janela: 2
+- espera: 0
+- tempo_atual: 161
+- tempo_com_maquina: 163
+- nao cabe no tempo
+------
+- disponibilidade: 1099
+- janela final: 125
+- janela: 5
+- espera: 0
+- tempo_atual: 161
+- tempo_com_maquina: 166
+- nao cabe no tempo
+------
+- disponibilidade: 1099
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 161
+- tempo_com_maquina: 163
+- nao cabe no tempo
+------
+- disponibilidade: 1099
+- janela final: 125
+- janela: 4
+- espera: 0
+- tempo_atual: 161
+- tempo_com_maquina: 165
+- nao cabe no tempo
+------
+- disponibilidade: 1099
+- janela final: 125
+- janela: 4
+- espera: 0
+- tempo_atual: 161
+- tempo_com_maquina: 165
+- nao cabe no tempo
+------
+- disponibilidade: 1099
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 161
+- tempo_com_maquina: 162
+- nao cabe no tempo
+------
+- disponibilidade: 1099
+- janela final: 125
+- janela: 3
+- espera: 0
+- tempo_atual: 161
+- tempo_com_maquina: 164
+- nao cabe no tempo
+------
+- disponibilidade: 1099
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 161
+- tempo_com_maquina: 163
+- nao cabe no tempo
+------
+- disponibilidade: 1099
+- janela final: 145
+- janela: 1
+- espera: 0
+- tempo_atual: 161
+- tempo_com_maquina: 162
+- nao cabe no tempo
+------
+- disponibilidade: 1099
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 161
+- tempo_com_maquina: 162
+- pode inserir
+------
+- disponibilidade: 1098
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 162
+- tempo_com_maquina: 163
+- pode inserir
+------
+- disponibilidade: 1097
+- janela final: 200
+- janela: 2
+- espera: 0
+- tempo_atual: 163
+- tempo_com_maquina: 165
+- pode inserir
+------
+- disponibilidade: 1095
+- janela final: 200
+- janela: 3
+- espera: 0
+- tempo_atual: 165
+- tempo_com_maquina: 168
+- pode inserir
+------
+- disponibilidade: 1092
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 170
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 170
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 150
+- janela: 4
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 172
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 150
+- janela: 6
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 174
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 150
+- janela: 5
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 173
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 150
+- janela: 3
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 171
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 150
+- janela: 6
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 174
+- nao cabe no tempo
+------
+soma: 3 | config = [ X, X, X,  , X, X, X, X,  , X, X, X, X, X, X,  ,  ,  ,  , X, X, X,  ,  ,  ,  , ]
+
+- disponibilidade: 1092
+- janela final: 127
+- janela: 2
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 170
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 119
+- janela: 3
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 171
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 169
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 135
+- janela: 1
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 169
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 127
+- janela: 2
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 170
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 119
+- janela: 3
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 171
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 169
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 135
+- janela: 1
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 169
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 120
+- janela: 2
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 170
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 124
+- janela: 3
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 171
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 123
+- janela: 1
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 169
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 169
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 169
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 125
+- janela: 5
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 173
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 170
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 125
+- janela: 7
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 175
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 170
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 125
+- janela: 3
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 171
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 145
+- janela: 1
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 169
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 169
+- pode inserir
+------
+- disponibilidade: 1091
+- janela final: 200
+- janela: 4
+- espera: 0
+- tempo_atual: 169
+- tempo_com_maquina: 173
+- pode inserir
+------
+- disponibilidade: 1087
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 173
+- tempo_com_maquina: 174
+- pode inserir
+------
+- disponibilidade: 1086
+- janela final: 200
+- janela: 2
+- espera: 0
+- tempo_atual: 174
+- tempo_com_maquina: 176
+- pode inserir
+------
+- disponibilidade: 1084
+- janela final: 150
+- janela: 1
+- espera: 0
+- tempo_atual: 176
+- tempo_com_maquina: 177
+- nao cabe no tempo
+------
+- disponibilidade: 1084
+- janela final: 150
+- janela: 4
+- espera: 0
+- tempo_atual: 176
+- tempo_com_maquina: 180
+- nao cabe no tempo
+------
+- disponibilidade: 1084
+- janela final: 150
+- janela: 7
+- espera: 0
+- tempo_atual: 176
+- tempo_com_maquina: 183
+- nao cabe no tempo
+------
+- disponibilidade: 1084
+- janela final: 150
+- janela: 8
+- espera: 0
+- tempo_atual: 176
+- tempo_com_maquina: 184
+- nao cabe no tempo
+------
+- disponibilidade: 1084
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 176
+- tempo_com_maquina: 178
+- nao cabe no tempo
+------
+- disponibilidade: 1084
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 176
+- tempo_com_maquina: 178
+- nao cabe no tempo
+------
+- disponibilidade: 1084
+- janela final: 150
+- janela: 5
+- espera: 0
+- tempo_atual: 176
+- tempo_com_maquina: 181
+- nao cabe no tempo
+------
+soma: 3 | config = [ X, X, X,  , X, X,  , X,  , X, X, X, X, X, X,  ,  ,  ,  , X, X, X,  ,  ,  ,  , ]
+
+- disponibilidade: 1096
+- janela final: 127
+- janela: 1
+- espera: 0
+- tempo_atual: 154
+- tempo_com_maquina: 155
+- nao cabe no tempo
+------
+- disponibilidade: 1096
+- janela final: 119
+- janela: 1
+- espera: 0
+- tempo_atual: 154
+- tempo_com_maquina: 155
+- nao cabe no tempo
+------
+- disponibilidade: 1096
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 154
+- tempo_com_maquina: 155
+- nao cabe no tempo
+------
+- disponibilidade: 1096
+- janela final: 135
+- janela: 2
+- espera: 0
+- tempo_atual: 154
+- tempo_com_maquina: 156
+- nao cabe no tempo
+------
+- disponibilidade: 1096
+- janela final: 127
+- janela: 1
+- espera: 0
+- tempo_atual: 154
+- tempo_com_maquina: 155
+- nao cabe no tempo
+------
+- disponibilidade: 1096
+- janela final: 119
+- janela: 1
+- espera: 0
+- tempo_atual: 154
+- tempo_com_maquina: 155
+- nao cabe no tempo
+------
+- disponibilidade: 1096
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 154
+- tempo_com_maquina: 155
+- nao cabe no tempo
+------
+- disponibilidade: 1096
+- janela final: 135
+- janela: 2
+- espera: 0
+- tempo_atual: 154
+- tempo_com_maquina: 156
+- nao cabe no tempo
+------
+- disponibilidade: 1096
+- janela final: 120
+- janela: 2
+- espera: 0
+- tempo_atual: 154
+- tempo_com_maquina: 156
+- nao cabe no tempo
+------
+- disponibilidade: 1096
+- janela final: 124
+- janela: 2
+- espera: 0
+- tempo_atual: 154
+- tempo_com_maquina: 156
+- nao cabe no tempo
+------
+- disponibilidade: 1096
+- janela final: 123
+- janela: 2
+- espera: 0
+- tempo_atual: 154
+- tempo_com_maquina: 156
+- nao cabe no tempo
+------
+- disponibilidade: 1096
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 154
+- tempo_com_maquina: 156
+- nao cabe no tempo
+------
+- disponibilidade: 1096
+- janela final: 125
+- janela: 4
+- espera: 0
+- tempo_atual: 154
+- tempo_com_maquina: 158
+- nao cabe no tempo
+------
+- disponibilidade: 1096
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 154
+- tempo_com_maquina: 155
+- nao cabe no tempo
+------
+- disponibilidade: 1096
+- janela final: 125
+- janela: 5
+- espera: 0
+- tempo_atual: 154
+- tempo_com_maquina: 159
+- nao cabe no tempo
+------
+- disponibilidade: 1096
+- janela final: 125
+- janela: 7
+- espera: 0
+- tempo_atual: 154
+- tempo_com_maquina: 161
+- nao cabe no tempo
+------
+- disponibilidade: 1096
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 154
+- tempo_com_maquina: 156
+- nao cabe no tempo
+------
+- disponibilidade: 1096
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 154
+- tempo_com_maquina: 155
+- nao cabe no tempo
+------
+- disponibilidade: 1096
+- janela final: 145
+- janela: 1
+- espera: 0
+- tempo_atual: 154
+- tempo_com_maquina: 155
+- nao cabe no tempo
+------
+- disponibilidade: 1096
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 154
+- tempo_com_maquina: 155
+- pode inserir
+------
+- disponibilidade: 1095
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 155
+- tempo_com_maquina: 156
+- pode inserir
+------
+- disponibilidade: 1094
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 156
+- tempo_com_maquina: 157
+- pode inserir
+------
+- disponibilidade: 1093
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 157
+- tempo_com_maquina: 158
+- pode inserir
+------
+- disponibilidade: 1092
+- janela final: 150
+- janela: 6
+- espera: 0
+- tempo_atual: 158
+- tempo_com_maquina: 164
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 150
+- janela: 3
+- espera: 0
+- tempo_atual: 158
+- tempo_com_maquina: 161
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 158
+- tempo_com_maquina: 160
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 158
+- tempo_com_maquina: 160
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 158
+- tempo_com_maquina: 160
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 158
+- tempo_com_maquina: 160
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 150
+- janela: 5
+- espera: 0
+- tempo_atual: 158
+- tempo_com_maquina: 163
+- nao cabe no tempo
+------
+soma: 3 | config = [ X, X, X,  , X, X,  , X,  , X,  , X, X, X, X,  ,  ,  ,  , X, X, X,  ,  ,  ,  , ]
+
+- disponibilidade: 1084
+- janela final: 127
+- janela: 1
+- espera: 0
+- tempo_atual: 176
+- tempo_com_maquina: 177
+- nao cabe no tempo
+------
+- disponibilidade: 1084
+- janela final: 119
+- janela: 4
+- espera: 0
+- tempo_atual: 176
+- tempo_com_maquina: 180
+- nao cabe no tempo
+------
+- disponibilidade: 1084
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 176
+- tempo_com_maquina: 178
+- nao cabe no tempo
+------
+- disponibilidade: 1084
+- janela final: 135
+- janela: 1
+- espera: 0
+- tempo_atual: 176
+- tempo_com_maquina: 177
+- nao cabe no tempo
+------
+- disponibilidade: 1084
+- janela final: 127
+- janela: 5
+- espera: 0
+- tempo_atual: 176
+- tempo_com_maquina: 181
+- nao cabe no tempo
+------
+- disponibilidade: 1084
+- janela final: 119
+- janela: 8
+- espera: 0
+- tempo_atual: 176
+- tempo_com_maquina: 184
+- nao cabe no tempo
+------
+- disponibilidade: 1084
+- janela final: 125
+- janela: 4
+- espera: 0
+- tempo_atual: 176
+- tempo_com_maquina: 180
+- nao cabe no tempo
+------
+- disponibilidade: 1084
+- janela final: 135
+- janela: 2
+- espera: 0
+- tempo_atual: 176
+- tempo_com_maquina: 178
+- nao cabe no tempo
+------
+- disponibilidade: 1084
+- janela final: 120
+- janela: 3
+- espera: 0
+- tempo_atual: 176
+- tempo_com_maquina: 179
+- nao cabe no tempo
+------
+- disponibilidade: 1084
+- janela final: 124
+- janela: 5
+- espera: 0
+- tempo_atual: 176
+- tempo_com_maquina: 181
+- nao cabe no tempo
+------
+- disponibilidade: 1084
+- janela final: 123
+- janela: 2
+- espera: 0
+- tempo_atual: 176
+- tempo_com_maquina: 178
+- nao cabe no tempo
+------
+- disponibilidade: 1084
+- janela final: 125
+- janela: 5
+- espera: 0
+- tempo_atual: 176
+- tempo_com_maquina: 181
+- nao cabe no tempo
+------
+- disponibilidade: 1084
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 176
+- tempo_com_maquina: 178
+- nao cabe no tempo
+------
+- disponibilidade: 1084
+- janela final: 125
+- janela: 4
+- espera: 0
+- tempo_atual: 176
+- tempo_com_maquina: 180
+- nao cabe no tempo
+------
+- disponibilidade: 1084
+- janela final: 125
+- janela: 4
+- espera: 0
+- tempo_atual: 176
+- tempo_com_maquina: 180
+- nao cabe no tempo
+------
+- disponibilidade: 1084
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 176
+- tempo_com_maquina: 177
+- nao cabe no tempo
+------
+- disponibilidade: 1084
+- janela final: 125
+- janela: 3
+- espera: 0
+- tempo_atual: 176
+- tempo_com_maquina: 179
+- nao cabe no tempo
+------
+- disponibilidade: 1084
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 176
+- tempo_com_maquina: 178
+- nao cabe no tempo
+------
+- disponibilidade: 1084
+- janela final: 145
+- janela: 1
+- espera: 0
+- tempo_atual: 176
+- tempo_com_maquina: 177
+- nao cabe no tempo
+------
+- disponibilidade: 1084
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 176
+- tempo_com_maquina: 177
+- pode inserir
+------
+- disponibilidade: 1083
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 177
+- tempo_com_maquina: 178
+- pode inserir
+------
+- disponibilidade: 1082
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 178
+- tempo_com_maquina: 179
+- pode inserir
+------
+- disponibilidade: 1081
+- janela final: 200
+- janela: 4
+- espera: 0
+- tempo_atual: 179
+- tempo_com_maquina: 183
+- pode inserir
+------
+- disponibilidade: 1077
+- janela final: 150
+- janela: 1
+- espera: 0
+- tempo_atual: 183
+- tempo_com_maquina: 184
+- nao cabe no tempo
+------
+- disponibilidade: 1077
+- janela final: 150
+- janela: 1
+- espera: 0
+- tempo_atual: 183
+- tempo_com_maquina: 184
+- nao cabe no tempo
+------
+- disponibilidade: 1077
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 183
+- tempo_com_maquina: 185
+- nao cabe no tempo
+------
+- disponibilidade: 1077
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 183
+- tempo_com_maquina: 185
+- nao cabe no tempo
+------
+- disponibilidade: 1077
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 183
+- tempo_com_maquina: 185
+- nao cabe no tempo
+------
+- disponibilidade: 1077
+- janela final: 150
+- janela: 4
+- espera: 0
+- tempo_atual: 183
+- tempo_com_maquina: 187
+- nao cabe no tempo
+------
+- disponibilidade: 1077
+- janela final: 150
+- janela: 4
+- espera: 0
+- tempo_atual: 183
+- tempo_com_maquina: 187
+- nao cabe no tempo
+------
+soma: 3 | config = [ X, X, X,  , X, X,  , X,  , X,  ,  , X, X, X,  ,  ,  ,  , X, X, X,  ,  ,  ,  , ]
+
+- disponibilidade: 1092
+- janela final: 127
+- janela: 1
+- espera: 0
+- tempo_atual: 158
+- tempo_com_maquina: 159
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 119
+- janela: 1
+- espera: 0
+- tempo_atual: 158
+- tempo_com_maquina: 159
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 158
+- tempo_com_maquina: 159
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 135
+- janela: 2
+- espera: 0
+- tempo_atual: 158
+- tempo_com_maquina: 160
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 127
+- janela: 1
+- espera: 0
+- tempo_atual: 158
+- tempo_com_maquina: 159
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 119
+- janela: 1
+- espera: 0
+- tempo_atual: 158
+- tempo_com_maquina: 159
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 158
+- tempo_com_maquina: 159
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 135
+- janela: 3
+- espera: 0
+- tempo_atual: 158
+- tempo_com_maquina: 161
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 120
+- janela: 6
+- espera: 0
+- tempo_atual: 158
+- tempo_com_maquina: 164
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 124
+- janela: 5
+- espera: 0
+- tempo_atual: 158
+- tempo_com_maquina: 163
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 123
+- janela: 2
+- espera: 0
+- tempo_atual: 158
+- tempo_com_maquina: 160
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 158
+- tempo_com_maquina: 159
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 158
+- tempo_com_maquina: 159
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 158
+- tempo_com_maquina: 159
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 158
+- tempo_com_maquina: 159
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 125
+- janela: 5
+- espera: 0
+- tempo_atual: 158
+- tempo_com_maquina: 163
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 158
+- tempo_com_maquina: 160
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 125
+- janela: 3
+- espera: 0
+- tempo_atual: 158
+- tempo_com_maquina: 161
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 145
+- janela: 1
+- espera: 0
+- tempo_atual: 158
+- tempo_com_maquina: 159
+- nao cabe no tempo
+------
+- disponibilidade: 1092
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 158
+- tempo_com_maquina: 159
+- pode inserir
+------
+- disponibilidade: 1091
+- janela final: 200
+- janela: 3
+- espera: 0
+- tempo_atual: 159
+- tempo_com_maquina: 162
+- pode inserir
+------
+- disponibilidade: 1088
+- janela final: 200
+- janela: 3
+- espera: 0
+- tempo_atual: 162
+- tempo_com_maquina: 165
+- pode inserir
+------
+- disponibilidade: 1085
+- janela final: 200
+- janela: 3
+- espera: 0
+- tempo_atual: 165
+- tempo_com_maquina: 168
+- pode inserir
+------
+- disponibilidade: 1082
+- janela final: 150
+- janela: 1
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 169
+- nao cabe no tempo
+------
+- disponibilidade: 1082
+- janela final: 150
+- janela: 4
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 172
+- nao cabe no tempo
+------
+- disponibilidade: 1082
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 170
+- nao cabe no tempo
+------
+- disponibilidade: 1082
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 170
+- nao cabe no tempo
+------
+- disponibilidade: 1082
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 170
+- nao cabe no tempo
+------
+- disponibilidade: 1082
+- janela final: 150
+- janela: 4
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 172
+- nao cabe no tempo
+------
+- disponibilidade: 1082
+- janela final: 150
+- janela: 1
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 169
+- nao cabe no tempo
+------
+soma: 3 | config = [ X, X, X,  , X, X,  , X,  , X,  ,  ,  , X, X,  ,  ,  ,  , X, X, X,  ,  ,  ,  , ]
+
+- disponibilidade: 1082
+- janela final: 127
+- janela: 1
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 169
+- nao cabe no tempo
+------
+- disponibilidade: 1082
+- janela final: 119
+- janela: 1
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 169
+- nao cabe no tempo
+------
+- disponibilidade: 1082
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 169
+- nao cabe no tempo
+------
+- disponibilidade: 1082
+- janela final: 135
+- janela: 2
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 170
+- nao cabe no tempo
+------
+- disponibilidade: 1082
+- janela final: 127
+- janela: 1
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 169
+- nao cabe no tempo
+------
+- disponibilidade: 1082
+- janela final: 119
+- janela: 1
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 169
+- nao cabe no tempo
+------
+- disponibilidade: 1082
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 169
+- nao cabe no tempo
+------
+- disponibilidade: 1082
+- janela final: 135
+- janela: 3
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 171
+- nao cabe no tempo
+------
+- disponibilidade: 1082
+- janela final: 120
+- janela: 6
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 174
+- nao cabe no tempo
+------
+- disponibilidade: 1082
+- janela final: 124
+- janela: 5
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 173
+- nao cabe no tempo
+------
+- disponibilidade: 1082
+- janela final: 123
+- janela: 2
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 170
+- nao cabe no tempo
+------
+- disponibilidade: 1082
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 169
+- nao cabe no tempo
+------
+- disponibilidade: 1082
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 169
+- nao cabe no tempo
+------
+- disponibilidade: 1082
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 169
+- nao cabe no tempo
+------
+- disponibilidade: 1082
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 169
+- nao cabe no tempo
+------
+- disponibilidade: 1082
+- janela final: 125
+- janela: 5
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 173
+- nao cabe no tempo
+------
+- disponibilidade: 1082
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 170
+- nao cabe no tempo
+------
+- disponibilidade: 1082
+- janela final: 125
+- janela: 3
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 171
+- nao cabe no tempo
+------
+- disponibilidade: 1082
+- janela final: 145
+- janela: 1
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 169
+- nao cabe no tempo
+------
+- disponibilidade: 1082
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 168
+- tempo_com_maquina: 169
+- pode inserir
+------
+- disponibilidade: 1081
+- janela final: 200
+- janela: 3
+- espera: 0
+- tempo_atual: 169
+- tempo_com_maquina: 172
+- pode inserir
+------
+- disponibilidade: 1078
+- janela final: 200
+- janela: 3
+- espera: 0
+- tempo_atual: 172
+- tempo_com_maquina: 175
+- pode inserir
+------
+- disponibilidade: 1075
+- janela final: 200
+- janela: 3
+- espera: 0
+- tempo_atual: 175
+- tempo_com_maquina: 178
+- pode inserir
+------
+- disponibilidade: 1072
+- janela final: 150
+- janela: 1
+- espera: 0
+- tempo_atual: 178
+- tempo_com_maquina: 179
+- nao cabe no tempo
+------
+- disponibilidade: 1072
+- janela final: 150
+- janela: 4
+- espera: 0
+- tempo_atual: 178
+- tempo_com_maquina: 182
+- nao cabe no tempo
+------
+- disponibilidade: 1072
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 178
+- tempo_com_maquina: 180
+- nao cabe no tempo
+------
+- disponibilidade: 1072
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 178
+- tempo_com_maquina: 180
+- nao cabe no tempo
+------
+- disponibilidade: 1072
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 178
+- tempo_com_maquina: 180
+- nao cabe no tempo
+------
+- disponibilidade: 1072
+- janela final: 150
+- janela: 4
+- espera: 0
+- tempo_atual: 178
+- tempo_com_maquina: 182
+- nao cabe no tempo
+------
+- disponibilidade: 1072
+- janela final: 150
+- janela: 5
+- espera: 0
+- tempo_atual: 178
+- tempo_com_maquina: 183
+- nao cabe no tempo
+------
+soma: 3 | config = [ X, X, X,  , X, X,  , X,  , X,  ,  ,  , X, X,  ,  ,  ,  ,  , X, X,  ,  ,  ,  , ]
+
+soma: 4 | config = [ X, X, X,  , X, X,  , X,  , X,  ,  ,  , X, X,  ,  ,  ,  ,  , X, X,  ,  ,  ,  , ]
+
+- disponibilidade: 1260
+- janela final: 127
+- janela: 3
+- espera: 3
+- tempo_atual: 0
+- tempo_com_maquina: 6
+- pode inserir
+------
+- disponibilidade: 1254
+- janela final: 119
+- janela: 3
+- espera: 0
+- tempo_atual: 6
+- tempo_com_maquina: 9
+- pode inserir
+------
+- disponibilidade: 1251
+- janela final: 125
+- janela: 4
+- espera: 0
+- tempo_atual: 9
+- tempo_com_maquina: 13
+- pode inserir
+------
+- disponibilidade: 1247
+- janela final: 135
+- janela: 1
+- espera: 0
+- tempo_atual: 13
+- tempo_com_maquina: 14
+- pode inserir
+------
+- disponibilidade: 1246
+- janela final: 127
+- janela: 2
+- espera: 0
+- tempo_atual: 14
+- tempo_com_maquina: 16
+- pode inserir
+------
+- disponibilidade: 1244
+- janela final: 119
+- janela: 3
+- espera: 0
+- tempo_atual: 16
+- tempo_com_maquina: 19
+- pode inserir
+------
+- disponibilidade: 1241
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 19
+- tempo_com_maquina: 20
+- pode inserir
+------
+- disponibilidade: 1240
+- janela final: 135
+- janela: 1
+- espera: 0
+- tempo_atual: 20
+- tempo_com_maquina: 21
+- pode inserir
+------
+- disponibilidade: 1239
+- janela final: 120
+- janela: 1
+- espera: 0
+- tempo_atual: 21
+- tempo_com_maquina: 22
+- pode inserir
+------
+- disponibilidade: 1238
+- janela final: 124
+- janela: 1
+- espera: 0
+- tempo_atual: 22
+- tempo_com_maquina: 23
+- pode inserir
+------
+- disponibilidade: 1237
+- janela final: 123
+- janela: 1
+- espera: 0
+- tempo_atual: 23
+- tempo_com_maquina: 24
+- pode inserir
+------
+- disponibilidade: 1236
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 24
+- tempo_com_maquina: 26
+- pode inserir
+------
+- disponibilidade: 1234
+- janela final: 125
+- janela: 8
+- espera: 0
+- tempo_atual: 26
+- tempo_com_maquina: 34
+- pode inserir
+------
+- disponibilidade: 1226
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 34
+- tempo_com_maquina: 35
+- pode inserir
+------
+- disponibilidade: 1225
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 35
+- tempo_com_maquina: 36
+- pode inserir
+------
+- disponibilidade: 1224
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 36
+- tempo_com_maquina: 38
+- pode inserir
+------
+- disponibilidade: 1222
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 38
+- tempo_com_maquina: 40
+- pode inserir
+------
+- disponibilidade: 1220
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 40
+- tempo_com_maquina: 42
+- pode inserir
+------
+- disponibilidade: 1218
+- janela final: 145
+- janela: 1
+- espera: 0
+- tempo_atual: 42
+- tempo_com_maquina: 43
+- pode inserir
+------
+- disponibilidade: 1217
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 43
+- tempo_com_maquina: 44
+- pode inserir
+------
+- disponibilidade: 1216
+- janela final: 200
+- janela: 5
+- espera: 0
+- tempo_atual: 44
+- tempo_com_maquina: 49
+- pode inserir
+------
+- disponibilidade: 1211
+- janela final: 200
+- janela: 3
+- espera: 0
+- tempo_atual: 49
+- tempo_com_maquina: 52
+- pode inserir
+------
+- disponibilidade: 1208
+- janela final: 200
+- janela: 2
+- espera: 0
+- tempo_atual: 52
+- tempo_com_maquina: 54
+- pode inserir
+------
+- disponibilidade: 1206
+- janela final: 150
+- janela: 1
+- espera: 0
+- tempo_atual: 54
+- tempo_com_maquina: 55
+- pode inserir
+------
+- disponibilidade: 1205
+- janela final: 150
+- janela: 1
+- espera: 0
+- tempo_atual: 55
+- tempo_com_maquina: 56
+- pode inserir
+------
+- disponibilidade: 1204
+- janela final: 150
+- janela: 7
+- espera: 0
+- tempo_atual: 56
+- tempo_com_maquina: 63
+- pode inserir
+------
+- disponibilidade: 1197
+- janela final: 150
+- janela: 7
+- espera: 0
+- tempo_atual: 63
+- tempo_com_maquina: 70
+- pode inserir
+------
+- disponibilidade: 1190
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 70
+- tempo_com_maquina: 72
+- pode inserir
+------
+- disponibilidade: 1188
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 72
+- tempo_com_maquina: 74
+- pode inserir
+------
+- disponibilidade: 1186
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 74
+- tempo_com_maquina: 76
+- pode inserir
+------
+soma: 4 | config = [  , X, X,  , X, X,  , X,  , X,  ,  ,  , X, X,  ,  ,  ,  ,  , X, X,  ,  ,  ,  , ]
+
+- disponibilidade: 1072
+- janela final: 127
+- janela: 1
+- espera: 0
+- tempo_atual: 178
+- tempo_com_maquina: 179
+- nao cabe no tempo
+------
+- disponibilidade: 1072
+- janela final: 119
+- janela: 1
+- espera: 0
+- tempo_atual: 178
+- tempo_com_maquina: 179
+- nao cabe no tempo
+------
+- disponibilidade: 1072
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 178
+- tempo_com_maquina: 179
+- nao cabe no tempo
+------
+- disponibilidade: 1072
+- janela final: 135
+- janela: 2
+- espera: 0
+- tempo_atual: 178
+- tempo_com_maquina: 180
+- nao cabe no tempo
+------
+- disponibilidade: 1072
+- janela final: 127
+- janela: 1
+- espera: 0
+- tempo_atual: 178
+- tempo_com_maquina: 179
+- nao cabe no tempo
+------
+- disponibilidade: 1072
+- janela final: 119
+- janela: 1
+- espera: 0
+- tempo_atual: 178
+- tempo_com_maquina: 179
+- nao cabe no tempo
+------
+- disponibilidade: 1072
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 178
+- tempo_com_maquina: 179
+- nao cabe no tempo
+------
+- disponibilidade: 1072
+- janela final: 135
+- janela: 2
+- espera: 0
+- tempo_atual: 178
+- tempo_com_maquina: 180
+- nao cabe no tempo
+------
+- disponibilidade: 1072
+- janela final: 120
+- janela: 2
+- espera: 0
+- tempo_atual: 178
+- tempo_com_maquina: 180
+- nao cabe no tempo
+------
+- disponibilidade: 1072
+- janela final: 124
+- janela: 2
+- espera: 0
+- tempo_atual: 178
+- tempo_com_maquina: 180
+- nao cabe no tempo
+------
+- disponibilidade: 1072
+- janela final: 123
+- janela: 2
+- espera: 0
+- tempo_atual: 178
+- tempo_com_maquina: 180
+- nao cabe no tempo
+------
+- disponibilidade: 1072
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 178
+- tempo_com_maquina: 180
+- nao cabe no tempo
+------
+- disponibilidade: 1072
+- janela final: 125
+- janela: 4
+- espera: 0
+- tempo_atual: 178
+- tempo_com_maquina: 182
+- nao cabe no tempo
+------
+- disponibilidade: 1072
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 178
+- tempo_com_maquina: 179
+- nao cabe no tempo
+------
+- disponibilidade: 1072
+- janela final: 125
+- janela: 5
+- espera: 0
+- tempo_atual: 178
+- tempo_com_maquina: 183
+- nao cabe no tempo
+------
+- disponibilidade: 1072
+- janela final: 125
+- janela: 7
+- espera: 0
+- tempo_atual: 178
+- tempo_com_maquina: 185
+- nao cabe no tempo
+------
+- disponibilidade: 1072
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 178
+- tempo_com_maquina: 180
+- nao cabe no tempo
+------
+- disponibilidade: 1072
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 178
+- tempo_com_maquina: 179
+- nao cabe no tempo
+------
+- disponibilidade: 1072
+- janela final: 145
+- janela: 1
+- espera: 0
+- tempo_atual: 178
+- tempo_com_maquina: 179
+- nao cabe no tempo
+------
+- disponibilidade: 1072
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 178
+- tempo_com_maquina: 179
+- pode inserir
+------
+- disponibilidade: 1071
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 179
+- tempo_com_maquina: 180
+- pode inserir
+------
+- disponibilidade: 1070
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 180
+- tempo_com_maquina: 181
+- pode inserir
+------
+- disponibilidade: 1069
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 181
+- tempo_com_maquina: 182
+- pode inserir
+------
+- disponibilidade: 1068
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 182
+- tempo_com_maquina: 184
+- nao cabe no tempo
+------
+- disponibilidade: 1068
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 182
+- tempo_com_maquina: 184
+- nao cabe no tempo
+------
+- disponibilidade: 1068
+- janela final: 150
+- janela: 4
+- espera: 0
+- tempo_atual: 182
+- tempo_com_maquina: 186
+- nao cabe no tempo
+------
+- disponibilidade: 1068
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 182
+- tempo_com_maquina: 184
+- nao cabe no tempo
+------
+- disponibilidade: 1068
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 182
+- tempo_com_maquina: 184
+- nao cabe no tempo
+------
+- disponibilidade: 1068
+- janela final: 150
+- janela: 1
+- espera: 0
+- tempo_atual: 182
+- tempo_com_maquina: 183
+- nao cabe no tempo
+------
+- disponibilidade: 1068
+- janela final: 150
+- janela: 1
+- espera: 0
+- tempo_atual: 182
+- tempo_com_maquina: 183
+- nao cabe no tempo
+------
+soma: 4 | config = [  , X,  ,  , X, X,  , X,  , X,  ,  ,  , X, X,  ,  ,  ,  ,  , X, X,  ,  ,  ,  , ]
+
+- disponibilidade: 1184
+- janela final: 127
+- janela: 1
+- espera: 0
+- tempo_atual: 76
+- tempo_com_maquina: 77
+- pode inserir
+------
+- disponibilidade: 1183
+- janela final: 119
+- janela: 1
+- espera: 0
+- tempo_atual: 77
+- tempo_com_maquina: 78
+- pode inserir
+------
+- disponibilidade: 1182
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 78
+- tempo_com_maquina: 79
+- pode inserir
+------
+- disponibilidade: 1181
+- janela final: 135
+- janela: 2
+- espera: 0
+- tempo_atual: 79
+- tempo_com_maquina: 81
+- pode inserir
+------
+- disponibilidade: 1179
+- janela final: 127
+- janela: 1
+- espera: 0
+- tempo_atual: 81
+- tempo_com_maquina: 82
+- pode inserir
+------
+- disponibilidade: 1178
+- janela final: 119
+- janela: 1
+- espera: 0
+- tempo_atual: 82
+- tempo_com_maquina: 83
+- pode inserir
+------
+- disponibilidade: 1177
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 83
+- tempo_com_maquina: 84
+- pode inserir
+------
+- disponibilidade: 1176
+- janela final: 135
+- janela: 3
+- espera: 0
+- tempo_atual: 84
+- tempo_com_maquina: 87
+- pode inserir
+------
+- disponibilidade: 1173
+- janela final: 120
+- janela: 6
+- espera: 0
+- tempo_atual: 87
+- tempo_com_maquina: 93
+- pode inserir
+------
+- disponibilidade: 1167
+- janela final: 124
+- janela: 5
+- espera: 0
+- tempo_atual: 93
+- tempo_com_maquina: 98
+- pode inserir
+------
+- disponibilidade: 1162
+- janela final: 123
+- janela: 2
+- espera: 0
+- tempo_atual: 98
+- tempo_com_maquina: 100
+- pode inserir
+------
+- disponibilidade: 1160
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 100
+- tempo_com_maquina: 101
+- pode inserir
+------
+- disponibilidade: 1159
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 101
+- tempo_com_maquina: 102
+- pode inserir
+------
+- disponibilidade: 1158
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 102
+- tempo_com_maquina: 103
+- pode inserir
+------
+- disponibilidade: 1157
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 103
+- tempo_com_maquina: 104
+- pode inserir
+------
+- disponibilidade: 1156
+- janela final: 125
+- janela: 5
+- espera: 0
+- tempo_atual: 104
+- tempo_com_maquina: 109
+- pode inserir
+------
+- disponibilidade: 1151
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 109
+- tempo_com_maquina: 111
+- pode inserir
+------
+- disponibilidade: 1149
+- janela final: 125
+- janela: 3
+- espera: 0
+- tempo_atual: 111
+- tempo_com_maquina: 114
+- pode inserir
+------
+- disponibilidade: 1146
+- janela final: 145
+- janela: 1
+- espera: 0
+- tempo_atual: 114
+- tempo_com_maquina: 115
+- pode inserir
+------
+- disponibilidade: 1145
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 115
+- tempo_com_maquina: 116
+- pode inserir
+------
+- disponibilidade: 1144
+- janela final: 200
+- janela: 3
+- espera: 0
+- tempo_atual: 116
+- tempo_com_maquina: 119
+- pode inserir
+------
+- disponibilidade: 1141
+- janela final: 200
+- janela: 2
+- espera: 0
+- tempo_atual: 119
+- tempo_com_maquina: 121
+- pode inserir
+------
+- disponibilidade: 1139
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 121
+- tempo_com_maquina: 122
+- pode inserir
+------
+- disponibilidade: 1138
+- janela final: 150
+- janela: 3
+- espera: 0
+- tempo_atual: 122
+- tempo_com_maquina: 125
+- pode inserir
+------
+- disponibilidade: 1135
+- janela final: 150
+- janela: 1
+- espera: 0
+- tempo_atual: 125
+- tempo_com_maquina: 126
+- pode inserir
+------
+- disponibilidade: 1134
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 126
+- tempo_com_maquina: 128
+- pode inserir
+------
+- disponibilidade: 1132
+- janela final: 150
+- janela: 8
+- espera: 0
+- tempo_atual: 128
+- tempo_com_maquina: 136
+- pode inserir
+------
+- disponibilidade: 1124
+- janela final: 150
+- janela: 9
+- espera: 0
+- tempo_atual: 136
+- tempo_com_maquina: 145
+- pode inserir
+------
+- disponibilidade: 1115
+- janela final: 150
+- janela: 3
+- espera: 0
+- tempo_atual: 145
+- tempo_com_maquina: 148
+- pode inserir
+------
+- disponibilidade: 1112
+- janela final: 150
+- janela: 3
+- espera: 0
+- tempo_atual: 148
+- tempo_com_maquina: 151
+- nao cabe no tempo
+------
+soma: 4 | config = [  , X,  ,  ,  , X,  , X,  , X,  ,  ,  , X, X,  ,  ,  ,  ,  , X, X,  ,  ,  ,  , ]
+
+- disponibilidade: 1112
+- janela final: 127
+- janela: 2
+- espera: 0
+- tempo_atual: 148
+- tempo_com_maquina: 150
+- nao cabe no tempo
+------
+- disponibilidade: 1112
+- janela final: 119
+- janela: 3
+- espera: 0
+- tempo_atual: 148
+- tempo_com_maquina: 151
+- nao cabe no tempo
+------
+- disponibilidade: 1112
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 148
+- tempo_com_maquina: 149
+- nao cabe no tempo
+------
+- disponibilidade: 1112
+- janela final: 135
+- janela: 1
+- espera: 0
+- tempo_atual: 148
+- tempo_com_maquina: 149
+- nao cabe no tempo
+------
+- disponibilidade: 1112
+- janela final: 127
+- janela: 2
+- espera: 0
+- tempo_atual: 148
+- tempo_com_maquina: 150
+- nao cabe no tempo
+------
+- disponibilidade: 1112
+- janela final: 119
+- janela: 3
+- espera: 0
+- tempo_atual: 148
+- tempo_com_maquina: 151
+- nao cabe no tempo
+------
+- disponibilidade: 1112
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 148
+- tempo_com_maquina: 149
+- nao cabe no tempo
+------
+- disponibilidade: 1112
+- janela final: 135
+- janela: 1
+- espera: 0
+- tempo_atual: 148
+- tempo_com_maquina: 149
+- nao cabe no tempo
+------
+- disponibilidade: 1112
+- janela final: 120
+- janela: 2
+- espera: 0
+- tempo_atual: 148
+- tempo_com_maquina: 150
+- nao cabe no tempo
+------
+- disponibilidade: 1112
+- janela final: 124
+- janela: 3
+- espera: 0
+- tempo_atual: 148
+- tempo_com_maquina: 151
+- nao cabe no tempo
+------
+- disponibilidade: 1112
+- janela final: 123
+- janela: 1
+- espera: 0
+- tempo_atual: 148
+- tempo_com_maquina: 149
+- nao cabe no tempo
+------
+- disponibilidade: 1112
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 148
+- tempo_com_maquina: 149
+- nao cabe no tempo
+------
+- disponibilidade: 1112
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 148
+- tempo_com_maquina: 149
+- nao cabe no tempo
+------
+- disponibilidade: 1112
+- janela final: 125
+- janela: 5
+- espera: 0
+- tempo_atual: 148
+- tempo_com_maquina: 153
+- nao cabe no tempo
+------
+- disponibilidade: 1112
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 148
+- tempo_com_maquina: 150
+- nao cabe no tempo
+------
+- disponibilidade: 1112
+- janela final: 125
+- janela: 7
+- espera: 0
+- tempo_atual: 148
+- tempo_com_maquina: 155
+- nao cabe no tempo
+------
+- disponibilidade: 1112
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 148
+- tempo_com_maquina: 150
+- nao cabe no tempo
+------
+- disponibilidade: 1112
+- janela final: 125
+- janela: 3
+- espera: 0
+- tempo_atual: 148
+- tempo_com_maquina: 151
+- nao cabe no tempo
+------
+- disponibilidade: 1112
+- janela final: 145
+- janela: 1
+- espera: 0
+- tempo_atual: 148
+- tempo_com_maquina: 149
+- nao cabe no tempo
+------
+- disponibilidade: 1112
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 148
+- tempo_com_maquina: 149
+- pode inserir
+------
+- disponibilidade: 1111
+- janela final: 200
+- janela: 2
+- espera: 0
+- tempo_atual: 149
+- tempo_com_maquina: 151
+- pode inserir
+------
+- disponibilidade: 1109
+- janela final: 200
+- janela: 2
+- espera: 0
+- tempo_atual: 151
+- tempo_com_maquina: 153
+- pode inserir
+------
+- disponibilidade: 1107
+- janela final: 200
+- janela: 2
+- espera: 0
+- tempo_atual: 153
+- tempo_com_maquina: 155
+- pode inserir
+------
+- disponibilidade: 1105
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 155
+- tempo_com_maquina: 157
+- nao cabe no tempo
+------
+- disponibilidade: 1105
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 155
+- tempo_com_maquina: 157
+- nao cabe no tempo
+------
+- disponibilidade: 1105
+- janela final: 150
+- janela: 4
+- espera: 0
+- tempo_atual: 155
+- tempo_com_maquina: 159
+- nao cabe no tempo
+------
+- disponibilidade: 1105
+- janela final: 150
+- janela: 6
+- espera: 0
+- tempo_atual: 155
+- tempo_com_maquina: 161
+- nao cabe no tempo
+------
+- disponibilidade: 1105
+- janela final: 150
+- janela: 3
+- espera: 0
+- tempo_atual: 155
+- tempo_com_maquina: 158
+- nao cabe no tempo
+------
+- disponibilidade: 1105
+- janela final: 150
+- janela: 4
+- espera: 0
+- tempo_atual: 155
+- tempo_com_maquina: 159
+- nao cabe no tempo
+------
+- disponibilidade: 1105
+- janela final: 150
+- janela: 4
+- espera: 0
+- tempo_atual: 155
+- tempo_com_maquina: 159
+- nao cabe no tempo
+------
+soma: 4 | config = [  , X,  ,  ,  , X,  , X,  ,  ,  ,  ,  , X, X,  ,  ,  ,  ,  , X, X,  ,  ,  ,  , ]
+
+- disponibilidade: 1077
+- janela final: 127
+- janela: 1
+- espera: 0
+- tempo_atual: 183
+- tempo_com_maquina: 184
+- nao cabe no tempo
+------
+- disponibilidade: 1077
+- janela final: 119
+- janela: 1
+- espera: 0
+- tempo_atual: 183
+- tempo_com_maquina: 184
+- nao cabe no tempo
+------
+- disponibilidade: 1077
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 183
+- tempo_com_maquina: 184
+- nao cabe no tempo
+------
+- disponibilidade: 1077
+- janela final: 135
+- janela: 2
+- espera: 0
+- tempo_atual: 183
+- tempo_com_maquina: 185
+- nao cabe no tempo
+------
+- disponibilidade: 1077
+- janela final: 127
+- janela: 1
+- espera: 0
+- tempo_atual: 183
+- tempo_com_maquina: 184
+- nao cabe no tempo
+------
+- disponibilidade: 1077
+- janela final: 119
+- janela: 1
+- espera: 0
+- tempo_atual: 183
+- tempo_com_maquina: 184
+- nao cabe no tempo
+------
+- disponibilidade: 1077
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 183
+- tempo_com_maquina: 184
+- nao cabe no tempo
+------
+- disponibilidade: 1077
+- janela final: 135
+- janela: 2
+- espera: 0
+- tempo_atual: 183
+- tempo_com_maquina: 185
+- nao cabe no tempo
+------
+- disponibilidade: 1077
+- janela final: 120
+- janela: 2
+- espera: 0
+- tempo_atual: 183
+- tempo_com_maquina: 185
+- nao cabe no tempo
+------
+- disponibilidade: 1077
+- janela final: 124
+- janela: 2
+- espera: 0
+- tempo_atual: 183
+- tempo_com_maquina: 185
+- nao cabe no tempo
+------
+- disponibilidade: 1077
+- janela final: 123
+- janela: 2
+- espera: 0
+- tempo_atual: 183
+- tempo_com_maquina: 185
+- nao cabe no tempo
+------
+- disponibilidade: 1077
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 183
+- tempo_com_maquina: 185
+- nao cabe no tempo
+------
+- disponibilidade: 1077
+- janela final: 125
+- janela: 4
+- espera: 0
+- tempo_atual: 183
+- tempo_com_maquina: 187
+- nao cabe no tempo
+------
+- disponibilidade: 1077
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 183
+- tempo_com_maquina: 184
+- nao cabe no tempo
+------
+- disponibilidade: 1077
+- janela final: 125
+- janela: 5
+- espera: 0
+- tempo_atual: 183
+- tempo_com_maquina: 188
+- nao cabe no tempo
+------
+- disponibilidade: 1077
+- janela final: 125
+- janela: 7
+- espera: 0
+- tempo_atual: 183
+- tempo_com_maquina: 190
+- nao cabe no tempo
+------
+- disponibilidade: 1077
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 183
+- tempo_com_maquina: 185
+- nao cabe no tempo
+------
+- disponibilidade: 1077
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 183
+- tempo_com_maquina: 184
+- nao cabe no tempo
+------
+- disponibilidade: 1077
+- janela final: 145
+- janela: 1
+- espera: 0
+- tempo_atual: 183
+- tempo_com_maquina: 184
+- nao cabe no tempo
+------
+- disponibilidade: 1077
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 183
+- tempo_com_maquina: 184
+- pode inserir
+------
+- disponibilidade: 1076
+- janela final: 200
+- janela: 4
+- espera: 0
+- tempo_atual: 184
+- tempo_com_maquina: 188
+- pode inserir
+------
+- disponibilidade: 1072
+- janela final: 200
+- janela: 2
+- espera: 0
+- tempo_atual: 188
+- tempo_com_maquina: 190
+- pode inserir
+------
+- disponibilidade: 1070
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 190
+- tempo_com_maquina: 191
+- pode inserir
+------
+- disponibilidade: 1069
+- janela final: 150
+- janela: 4
+- espera: 0
+- tempo_atual: 191
+- tempo_com_maquina: 195
+- nao cabe no tempo
+------
+- disponibilidade: 1069
+- janela final: 150
+- janela: 6
+- espera: 0
+- tempo_atual: 191
+- tempo_com_maquina: 197
+- nao cabe no tempo
+------
+- disponibilidade: 1069
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 191
+- tempo_com_maquina: 193
+- nao cabe no tempo
+------
+- disponibilidade: 1069
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 191
+- tempo_com_maquina: 193
+- nao cabe no tempo
+------
+- disponibilidade: 1069
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 191
+- tempo_com_maquina: 193
+- nao cabe no tempo
+------
+- disponibilidade: 1069
+- janela final: 150
+- janela: 4
+- espera: 0
+- tempo_atual: 191
+- tempo_com_maquina: 195
+- nao cabe no tempo
+------
+- disponibilidade: 1069
+- janela final: 150
+- janela: 5
+- espera: 0
+- tempo_atual: 191
+- tempo_com_maquina: 196
+- nao cabe no tempo
+------
+soma: 4 | config = [  , X,  ,  ,  , X,  , X,  ,  ,  ,  ,  ,  , X,  ,  ,  ,  ,  , X, X,  ,  ,  ,  , ]
+
+- disponibilidade: 1069
+- janela final: 127
+- janela: 1
+- espera: 0
+- tempo_atual: 191
+- tempo_com_maquina: 192
+- nao cabe no tempo
+------
+- disponibilidade: 1069
+- janela final: 119
+- janela: 1
+- espera: 0
+- tempo_atual: 191
+- tempo_com_maquina: 192
+- nao cabe no tempo
+------
+- disponibilidade: 1069
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 191
+- tempo_com_maquina: 192
+- nao cabe no tempo
+------
+- disponibilidade: 1069
+- janela final: 135
+- janela: 2
+- espera: 0
+- tempo_atual: 191
+- tempo_com_maquina: 193
+- nao cabe no tempo
+------
+- disponibilidade: 1069
+- janela final: 127
+- janela: 1
+- espera: 0
+- tempo_atual: 191
+- tempo_com_maquina: 192
+- nao cabe no tempo
+------
+- disponibilidade: 1069
+- janela final: 119
+- janela: 1
+- espera: 0
+- tempo_atual: 191
+- tempo_com_maquina: 192
+- nao cabe no tempo
+------
+- disponibilidade: 1069
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 191
+- tempo_com_maquina: 192
+- nao cabe no tempo
+------
+- disponibilidade: 1069
+- janela final: 135
+- janela: 2
+- espera: 0
+- tempo_atual: 191
+- tempo_com_maquina: 193
+- nao cabe no tempo
+------
+- disponibilidade: 1069
+- janela final: 120
+- janela: 2
+- espera: 0
+- tempo_atual: 191
+- tempo_com_maquina: 193
+- nao cabe no tempo
+------
+- disponibilidade: 1069
+- janela final: 124
+- janela: 2
+- espera: 0
+- tempo_atual: 191
+- tempo_com_maquina: 193
+- nao cabe no tempo
+------
+- disponibilidade: 1069
+- janela final: 123
+- janela: 2
+- espera: 0
+- tempo_atual: 191
+- tempo_com_maquina: 193
+- nao cabe no tempo
+------
+- disponibilidade: 1069
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 191
+- tempo_com_maquina: 193
+- nao cabe no tempo
+------
+- disponibilidade: 1069
+- janela final: 125
+- janela: 4
+- espera: 0
+- tempo_atual: 191
+- tempo_com_maquina: 195
+- nao cabe no tempo
+------
+- disponibilidade: 1069
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 191
+- tempo_com_maquina: 192
+- nao cabe no tempo
+------
+- disponibilidade: 1069
+- janela final: 125
+- janela: 5
+- espera: 0
+- tempo_atual: 191
+- tempo_com_maquina: 196
+- nao cabe no tempo
+------
+- disponibilidade: 1069
+- janela final: 125
+- janela: 7
+- espera: 0
+- tempo_atual: 191
+- tempo_com_maquina: 198
+- nao cabe no tempo
+------
+- disponibilidade: 1069
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 191
+- tempo_com_maquina: 193
+- nao cabe no tempo
+------
+- disponibilidade: 1069
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 191
+- tempo_com_maquina: 192
+- nao cabe no tempo
+------
+- disponibilidade: 1069
+- janela final: 145
+- janela: 1
+- espera: 0
+- tempo_atual: 191
+- tempo_com_maquina: 192
+- nao cabe no tempo
+------
+- disponibilidade: 1069
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 191
+- tempo_com_maquina: 192
+- pode inserir
+------
+- disponibilidade: 1068
+- janela final: 200
+- janela: 4
+- espera: 0
+- tempo_atual: 192
+- tempo_com_maquina: 196
+- pode inserir
+------
+- disponibilidade: 1064
+- janela final: 200
+- janela: 2
+- espera: 0
+- tempo_atual: 196
+- tempo_com_maquina: 198
+- pode inserir
+------
+- disponibilidade: 1062
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 198
+- tempo_com_maquina: 199
+- pode inserir
+------
+- disponibilidade: 1061
+- janela final: 150
+- janela: 4
+- espera: 0
+- tempo_atual: 199
+- tempo_com_maquina: 203
+- nao cabe no tempo
+------
+- disponibilidade: 1061
+- janela final: 150
+- janela: 6
+- espera: 0
+- tempo_atual: 199
+- tempo_com_maquina: 205
+- nao cabe no tempo
+------
+- disponibilidade: 1061
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 199
+- tempo_com_maquina: 201
+- nao cabe no tempo
+------
+- disponibilidade: 1061
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 199
+- tempo_com_maquina: 201
+- nao cabe no tempo
+------
+- disponibilidade: 1061
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 199
+- tempo_com_maquina: 201
+- nao cabe no tempo
+------
+- disponibilidade: 1061
+- janela final: 150
+- janela: 4
+- espera: 0
+- tempo_atual: 199
+- tempo_com_maquina: 203
+- nao cabe no tempo
+------
+- disponibilidade: 1061
+- janela final: 150
+- janela: 5
+- espera: 0
+- tempo_atual: 199
+- tempo_com_maquina: 204
+- nao cabe no tempo
+------
+soma: 4 | config = [  , X,  ,  ,  , X,  , X,  ,  ,  ,  ,  ,  , X,  ,  ,  ,  ,  ,  , X,  ,  ,  ,  , ]
+
+soma: 5 | config = [  , X,  ,  ,  , X,  , X,  ,  ,  ,  ,  ,  , X,  ,  ,  ,  ,  ,  , X,  ,  ,  ,  , ]
+
+- disponibilidade: 1105
+- janela final: 127
+- janela: 2
+- espera: 0
+- tempo_atual: 155
+- tempo_com_maquina: 157
+- nao cabe no tempo
+------
+- disponibilidade: 1105
+- janela final: 119
+- janela: 3
+- espera: 0
+- tempo_atual: 155
+- tempo_com_maquina: 158
+- nao cabe no tempo
+------
+- disponibilidade: 1105
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 155
+- tempo_com_maquina: 156
+- nao cabe no tempo
+------
+- disponibilidade: 1105
+- janela final: 135
+- janela: 1
+- espera: 0
+- tempo_atual: 155
+- tempo_com_maquina: 156
+- nao cabe no tempo
+------
+- disponibilidade: 1105
+- janela final: 127
+- janela: 2
+- espera: 0
+- tempo_atual: 155
+- tempo_com_maquina: 157
+- nao cabe no tempo
+------
+- disponibilidade: 1105
+- janela final: 119
+- janela: 3
+- espera: 0
+- tempo_atual: 155
+- tempo_com_maquina: 158
+- nao cabe no tempo
+------
+- disponibilidade: 1105
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 155
+- tempo_com_maquina: 156
+- nao cabe no tempo
+------
+- disponibilidade: 1105
+- janela final: 135
+- janela: 1
+- espera: 0
+- tempo_atual: 155
+- tempo_com_maquina: 156
+- nao cabe no tempo
+------
+- disponibilidade: 1105
+- janela final: 120
+- janela: 2
+- espera: 0
+- tempo_atual: 155
+- tempo_com_maquina: 157
+- nao cabe no tempo
+------
+- disponibilidade: 1105
+- janela final: 124
+- janela: 3
+- espera: 0
+- tempo_atual: 155
+- tempo_com_maquina: 158
+- nao cabe no tempo
+------
+- disponibilidade: 1105
+- janela final: 123
+- janela: 1
+- espera: 0
+- tempo_atual: 155
+- tempo_com_maquina: 156
+- nao cabe no tempo
+------
+- disponibilidade: 1105
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 155
+- tempo_com_maquina: 156
+- nao cabe no tempo
+------
+- disponibilidade: 1105
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 155
+- tempo_com_maquina: 156
+- nao cabe no tempo
+------
+- disponibilidade: 1105
+- janela final: 125
+- janela: 5
+- espera: 0
+- tempo_atual: 155
+- tempo_com_maquina: 160
+- nao cabe no tempo
+------
+- disponibilidade: 1105
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 155
+- tempo_com_maquina: 157
+- nao cabe no tempo
+------
+- disponibilidade: 1105
+- janela final: 125
+- janela: 7
+- espera: 0
+- tempo_atual: 155
+- tempo_com_maquina: 162
+- nao cabe no tempo
+------
+- disponibilidade: 1105
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 155
+- tempo_com_maquina: 157
+- nao cabe no tempo
+------
+- disponibilidade: 1105
+- janela final: 125
+- janela: 3
+- espera: 0
+- tempo_atual: 155
+- tempo_com_maquina: 158
+- nao cabe no tempo
+------
+- disponibilidade: 1105
+- janela final: 145
+- janela: 1
+- espera: 0
+- tempo_atual: 155
+- tempo_com_maquina: 156
+- nao cabe no tempo
+------
+- disponibilidade: 1105
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 155
+- tempo_com_maquina: 156
+- pode inserir
+------
+- disponibilidade: 1104
+- janela final: 200
+- janela: 5
+- espera: 0
+- tempo_atual: 156
+- tempo_com_maquina: 161
+- pode inserir
+------
+- disponibilidade: 1099
+- janela final: 200
+- janela: 4
+- espera: 0
+- tempo_atual: 161
+- tempo_com_maquina: 165
+- pode inserir
+------
+- disponibilidade: 1095
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 165
+- tempo_com_maquina: 166
+- pode inserir
+------
+- disponibilidade: 1094
+- janela final: 150
+- janela: 5
+- espera: 0
+- tempo_atual: 166
+- tempo_com_maquina: 171
+- nao cabe no tempo
+------
+- disponibilidade: 1094
+- janela final: 150
+- janela: 3
+- espera: 0
+- tempo_atual: 166
+- tempo_com_maquina: 169
+- nao cabe no tempo
+------
+- disponibilidade: 1094
+- janela final: 150
+- janela: 5
+- espera: 0
+- tempo_atual: 166
+- tempo_com_maquina: 171
+- nao cabe no tempo
+------
+- disponibilidade: 1094
+- janela final: 150
+- janela: 6
+- espera: 0
+- tempo_atual: 166
+- tempo_com_maquina: 172
+- nao cabe no tempo
+------
+- disponibilidade: 1094
+- janela final: 150
+- janela: 3
+- espera: 0
+- tempo_atual: 166
+- tempo_com_maquina: 169
+- nao cabe no tempo
+------
+- disponibilidade: 1094
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 166
+- tempo_com_maquina: 168
+- nao cabe no tempo
+------
+- disponibilidade: 1094
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 166
+- tempo_com_maquina: 168
+- nao cabe no tempo
+------
+soma: 5 | config = [  ,  ,  ,  ,  , X,  , X,  ,  ,  ,  ,  ,  , X,  ,  ,  ,  ,  ,  , X,  ,  ,  ,  , ]
+
+- disponibilidade: 1068
+- janela final: 127
+- janela: 1
+- espera: 0
+- tempo_atual: 182
+- tempo_com_maquina: 183
+- nao cabe no tempo
+------
+- disponibilidade: 1068
+- janela final: 119
+- janela: 6
+- espera: 0
+- tempo_atual: 182
+- tempo_com_maquina: 188
+- nao cabe no tempo
+------
+- disponibilidade: 1068
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 182
+- tempo_com_maquina: 184
+- nao cabe no tempo
+------
+- disponibilidade: 1068
+- janela final: 135
+- janela: 5
+- espera: 0
+- tempo_atual: 182
+- tempo_com_maquina: 187
+- nao cabe no tempo
+------
+- disponibilidade: 1068
+- janela final: 127
+- janela: 3
+- espera: 0
+- tempo_atual: 182
+- tempo_com_maquina: 185
+- nao cabe no tempo
+------
+- disponibilidade: 1068
+- janela final: 119
+- janela: 3
+- espera: 0
+- tempo_atual: 182
+- tempo_com_maquina: 185
+- nao cabe no tempo
+------
+- disponibilidade: 1068
+- janela final: 125
+- janela: 5
+- espera: 0
+- tempo_atual: 182
+- tempo_com_maquina: 187
+- nao cabe no tempo
+------
+- disponibilidade: 1068
+- janela final: 135
+- janela: 4
+- espera: 0
+- tempo_atual: 182
+- tempo_com_maquina: 186
+- nao cabe no tempo
+------
+- disponibilidade: 1068
+- janela final: 120
+- janela: 6
+- espera: 0
+- tempo_atual: 182
+- tempo_com_maquina: 188
+- nao cabe no tempo
+------
+- disponibilidade: 1068
+- janela final: 124
+- janela: 1
+- espera: 0
+- tempo_atual: 182
+- tempo_com_maquina: 183
+- nao cabe no tempo
+------
+- disponibilidade: 1068
+- janela final: 123
+- janela: 1
+- espera: 0
+- tempo_atual: 182
+- tempo_com_maquina: 183
+- nao cabe no tempo
+------
+- disponibilidade: 1068
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 182
+- tempo_com_maquina: 183
+- nao cabe no tempo
+------
+- disponibilidade: 1068
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 182
+- tempo_com_maquina: 183
+- nao cabe no tempo
+------
+- disponibilidade: 1068
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 182
+- tempo_com_maquina: 183
+- nao cabe no tempo
+------
+- disponibilidade: 1068
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 182
+- tempo_com_maquina: 183
+- nao cabe no tempo
+------
+- disponibilidade: 1068
+- janela final: 125
+- janela: 3
+- espera: 0
+- tempo_atual: 182
+- tempo_com_maquina: 185
+- nao cabe no tempo
+------
+- disponibilidade: 1068
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 182
+- tempo_com_maquina: 184
+- nao cabe no tempo
+------
+- disponibilidade: 1068
+- janela final: 125
+- janela: 3
+- espera: 0
+- tempo_atual: 182
+- tempo_com_maquina: 185
+- nao cabe no tempo
+------
+- disponibilidade: 1068
+- janela final: 145
+- janela: 1
+- espera: 0
+- tempo_atual: 182
+- tempo_com_maquina: 183
+- nao cabe no tempo
+------
+- disponibilidade: 1068
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 182
+- tempo_com_maquina: 183
+- pode inserir
+------
+- disponibilidade: 1067
+- janela final: 200
+- janela: 2
+- espera: 0
+- tempo_atual: 183
+- tempo_com_maquina: 185
+- pode inserir
+------
+- disponibilidade: 1065
+- janela final: 200
+- janela: 3
+- espera: 0
+- tempo_atual: 185
+- tempo_com_maquina: 188
+- pode inserir
+------
+- disponibilidade: 1062
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 188
+- tempo_com_maquina: 189
+- pode inserir
+------
+- disponibilidade: 1061
+- janela final: 150
+- janela: 4
+- espera: 0
+- tempo_atual: 189
+- tempo_com_maquina: 193
+- nao cabe no tempo
+------
+- disponibilidade: 1061
+- janela final: 150
+- janela: 3
+- espera: 0
+- tempo_atual: 189
+- tempo_com_maquina: 192
+- nao cabe no tempo
+------
+- disponibilidade: 1061
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 189
+- tempo_com_maquina: 191
+- nao cabe no tempo
+------
+- disponibilidade: 1061
+- janela final: 150
+- janela: 5
+- espera: 0
+- tempo_atual: 189
+- tempo_com_maquina: 194
+- nao cabe no tempo
+------
+- disponibilidade: 1061
+- janela final: 150
+- janela: 4
+- espera: 0
+- tempo_atual: 189
+- tempo_com_maquina: 193
+- nao cabe no tempo
+------
+- disponibilidade: 1061
+- janela final: 150
+- janela: 1
+- espera: 0
+- tempo_atual: 189
+- tempo_com_maquina: 190
+- nao cabe no tempo
+------
+- disponibilidade: 1061
+- janela final: 150
+- janela: 1
+- espera: 0
+- tempo_atual: 189
+- tempo_com_maquina: 190
+- nao cabe no tempo
+------
+soma: 5 | config = [  ,  ,  ,  ,  , X,  ,  ,  ,  ,  ,  ,  ,  , X,  ,  ,  ,  ,  ,  , X,  ,  ,  ,  , ]
+
+soma: 6 | config = [  ,  ,  ,  ,  , X,  ,  ,  ,  ,  ,  ,  ,  , X,  ,  ,  ,  ,  ,  , X,  ,  ,  ,  , ]
+
+- disponibilidade: 1061
+- janela final: 127
+- janela: 3
+- espera: 0
+- tempo_atual: 189
+- tempo_com_maquina: 192
+- nao cabe no tempo
+------
+- disponibilidade: 1061
+- janela final: 119
+- janela: 3
+- espera: 0
+- tempo_atual: 189
+- tempo_com_maquina: 192
+- nao cabe no tempo
+------
+- disponibilidade: 1061
+- janela final: 125
+- janela: 4
+- espera: 0
+- tempo_atual: 189
+- tempo_com_maquina: 193
+- nao cabe no tempo
+------
+- disponibilidade: 1061
+- janela final: 135
+- janela: 1
+- espera: 0
+- tempo_atual: 189
+- tempo_com_maquina: 190
+- nao cabe no tempo
+------
+- disponibilidade: 1061
+- janela final: 127
+- janela: 2
+- espera: 0
+- tempo_atual: 189
+- tempo_com_maquina: 191
+- nao cabe no tempo
+------
+- disponibilidade: 1061
+- janela final: 119
+- janela: 3
+- espera: 0
+- tempo_atual: 189
+- tempo_com_maquina: 192
+- nao cabe no tempo
+------
+- disponibilidade: 1061
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 189
+- tempo_com_maquina: 190
+- nao cabe no tempo
+------
+- disponibilidade: 1061
+- janela final: 135
+- janela: 1
+- espera: 0
+- tempo_atual: 189
+- tempo_com_maquina: 190
+- nao cabe no tempo
+------
+- disponibilidade: 1061
+- janela final: 120
+- janela: 1
+- espera: 0
+- tempo_atual: 189
+- tempo_com_maquina: 190
+- nao cabe no tempo
+------
+- disponibilidade: 1061
+- janela final: 124
+- janela: 1
+- espera: 0
+- tempo_atual: 189
+- tempo_com_maquina: 190
+- nao cabe no tempo
+------
+- disponibilidade: 1061
+- janela final: 123
+- janela: 1
+- espera: 0
+- tempo_atual: 189
+- tempo_com_maquina: 190
+- nao cabe no tempo
+------
+- disponibilidade: 1061
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 189
+- tempo_com_maquina: 191
+- nao cabe no tempo
+------
+- disponibilidade: 1061
+- janela final: 125
+- janela: 8
+- espera: 0
+- tempo_atual: 189
+- tempo_com_maquina: 197
+- nao cabe no tempo
+------
+- disponibilidade: 1061
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 189
+- tempo_com_maquina: 190
+- nao cabe no tempo
+------
+- disponibilidade: 1061
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 189
+- tempo_com_maquina: 190
+- nao cabe no tempo
+------
+- disponibilidade: 1061
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 189
+- tempo_com_maquina: 191
+- nao cabe no tempo
+------
+- disponibilidade: 1061
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 189
+- tempo_com_maquina: 191
+- nao cabe no tempo
+------
+- disponibilidade: 1061
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 189
+- tempo_com_maquina: 191
+- nao cabe no tempo
+------
+- disponibilidade: 1061
+- janela final: 145
+- janela: 1
+- espera: 0
+- tempo_atual: 189
+- tempo_com_maquina: 190
+- nao cabe no tempo
+------
+- disponibilidade: 1061
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 189
+- tempo_com_maquina: 190
+- pode inserir
+------
+- disponibilidade: 1060
+- janela final: 200
+- janela: 4
+- espera: 0
+- tempo_atual: 190
+- tempo_com_maquina: 194
+- pode inserir
+------
+- disponibilidade: 1056
+- janela final: 200
+- janela: 3
+- espera: 0
+- tempo_atual: 194
+- tempo_com_maquina: 197
+- pode inserir
+------
+- disponibilidade: 1053
+- janela final: 200
+- janela: 2
+- espera: 0
+- tempo_atual: 197
+- tempo_com_maquina: 199
+- pode inserir
+------
+- disponibilidade: 1051
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 199
+- tempo_com_maquina: 201
+- nao cabe no tempo
+------
+- disponibilidade: 1051
+- janela final: 150
+- janela: 4
+- espera: 0
+- tempo_atual: 199
+- tempo_com_maquina: 203
+- nao cabe no tempo
+------
+- disponibilidade: 1051
+- janela final: 150
+- janela: 8
+- espera: 0
+- tempo_atual: 199
+- tempo_com_maquina: 207
+- nao cabe no tempo
+------
+- disponibilidade: 1051
+- janela final: 150
+- janela: 6
+- espera: 0
+- tempo_atual: 199
+- tempo_com_maquina: 205
+- nao cabe no tempo
+------
+- disponibilidade: 1051
+- janela final: 150
+- janela: 4
+- espera: 0
+- tempo_atual: 199
+- tempo_com_maquina: 203
+- nao cabe no tempo
+------
+- disponibilidade: 1051
+- janela final: 150
+- janela: 3
+- espera: 0
+- tempo_atual: 199
+- tempo_com_maquina: 202
+- nao cabe no tempo
+------
+- disponibilidade: 1051
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 199
+- tempo_com_maquina: 201
+- nao cabe no tempo
+------
+soma: 6 | config = [  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  , X,  ,  ,  ,  ,  ,  , X,  ,  ,  ,  , ]
+
+soma: 7 | config = [  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  , X,  ,  ,  ,  ,  ,  , X,  ,  ,  ,  , ]
+
+- disponibilidade: 1094
+- janela final: 127
+- janela: 1
+- espera: 0
+- tempo_atual: 166
+- tempo_com_maquina: 167
+- nao cabe no tempo
+------
+- disponibilidade: 1094
+- janela final: 119
+- janela: 4
+- espera: 0
+- tempo_atual: 166
+- tempo_com_maquina: 170
+- nao cabe no tempo
+------
+- disponibilidade: 1094
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 166
+- tempo_com_maquina: 168
+- nao cabe no tempo
+------
+- disponibilidade: 1094
+- janela final: 135
+- janela: 1
+- espera: 0
+- tempo_atual: 166
+- tempo_com_maquina: 167
+- nao cabe no tempo
+------
+- disponibilidade: 1094
+- janela final: 127
+- janela: 5
+- espera: 0
+- tempo_atual: 166
+- tempo_com_maquina: 171
+- nao cabe no tempo
+------
+- disponibilidade: 1094
+- janela final: 119
+- janela: 8
+- espera: 0
+- tempo_atual: 166
+- tempo_com_maquina: 174
+- nao cabe no tempo
+------
+- disponibilidade: 1094
+- janela final: 125
+- janela: 4
+- espera: 0
+- tempo_atual: 166
+- tempo_com_maquina: 170
+- nao cabe no tempo
+------
+- disponibilidade: 1094
+- janela final: 135
+- janela: 2
+- espera: 0
+- tempo_atual: 166
+- tempo_com_maquina: 168
+- nao cabe no tempo
+------
+- disponibilidade: 1094
+- janela final: 120
+- janela: 3
+- espera: 0
+- tempo_atual: 166
+- tempo_com_maquina: 169
+- nao cabe no tempo
+------
+- disponibilidade: 1094
+- janela final: 124
+- janela: 5
+- espera: 0
+- tempo_atual: 166
+- tempo_com_maquina: 171
+- nao cabe no tempo
+------
+- disponibilidade: 1094
+- janela final: 123
+- janela: 2
+- espera: 0
+- tempo_atual: 166
+- tempo_com_maquina: 168
+- nao cabe no tempo
+------
+- disponibilidade: 1094
+- janela final: 125
+- janela: 5
+- espera: 0
+- tempo_atual: 166
+- tempo_com_maquina: 171
+- nao cabe no tempo
+------
+- disponibilidade: 1094
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 166
+- tempo_com_maquina: 168
+- nao cabe no tempo
+------
+- disponibilidade: 1094
+- janela final: 125
+- janela: 4
+- espera: 0
+- tempo_atual: 166
+- tempo_com_maquina: 170
+- nao cabe no tempo
+------
+- disponibilidade: 1094
+- janela final: 125
+- janela: 4
+- espera: 0
+- tempo_atual: 166
+- tempo_com_maquina: 170
+- nao cabe no tempo
+------
+- disponibilidade: 1094
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 166
+- tempo_com_maquina: 167
+- nao cabe no tempo
+------
+- disponibilidade: 1094
+- janela final: 125
+- janela: 3
+- espera: 0
+- tempo_atual: 166
+- tempo_com_maquina: 169
+- nao cabe no tempo
+------
+- disponibilidade: 1094
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 166
+- tempo_com_maquina: 168
+- nao cabe no tempo
+------
+- disponibilidade: 1094
+- janela final: 145
+- janela: 1
+- espera: 0
+- tempo_atual: 166
+- tempo_com_maquina: 167
+- nao cabe no tempo
+------
+- disponibilidade: 1094
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 166
+- tempo_com_maquina: 167
+- pode inserir
+------
+- disponibilidade: 1093
+- janela final: 200
+- janela: 2
+- espera: 0
+- tempo_atual: 167
+- tempo_com_maquina: 169
+- pode inserir
+------
+- disponibilidade: 1091
+- janela final: 200
+- janela: 4
+- espera: 0
+- tempo_atual: 169
+- tempo_com_maquina: 173
+- pode inserir
+------
+- disponibilidade: 1087
+- janela final: 200
+- janela: 4
+- espera: 0
+- tempo_atual: 173
+- tempo_com_maquina: 177
+- pode inserir
+------
+- disponibilidade: 1083
+- janela final: 150
+- janela: 4
+- espera: 0
+- tempo_atual: 177
+- tempo_com_maquina: 181
+- nao cabe no tempo
+------
+- disponibilidade: 1083
+- janela final: 150
+- janela: 4
+- espera: 0
+- tempo_atual: 177
+- tempo_com_maquina: 181
+- nao cabe no tempo
+------
+- disponibilidade: 1083
+- janela final: 150
+- janela: 1
+- espera: 0
+- tempo_atual: 177
+- tempo_com_maquina: 178
+- nao cabe no tempo
+------
+- disponibilidade: 1083
+- janela final: 150
+- janela: 5
+- espera: 0
+- tempo_atual: 177
+- tempo_com_maquina: 182
+- nao cabe no tempo
+------
+- disponibilidade: 1083
+- janela final: 150
+- janela: 3
+- espera: 0
+- tempo_atual: 177
+- tempo_com_maquina: 180
+- nao cabe no tempo
+------
+- disponibilidade: 1083
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 177
+- tempo_com_maquina: 179
+- nao cabe no tempo
+------
+- disponibilidade: 1083
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 177
+- tempo_com_maquina: 179
+- nao cabe no tempo
+------
+soma: 7 | config = [  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  , X,  ,  ,  ,  , ]
+
+- disponibilidade: 1083
+- janela final: 127
+- janela: 1
+- espera: 0
+- tempo_atual: 177
+- tempo_com_maquina: 178
+- nao cabe no tempo
+------
+- disponibilidade: 1083
+- janela final: 119
+- janela: 4
+- espera: 0
+- tempo_atual: 177
+- tempo_com_maquina: 181
+- nao cabe no tempo
+------
+- disponibilidade: 1083
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 177
+- tempo_com_maquina: 179
+- nao cabe no tempo
+------
+- disponibilidade: 1083
+- janela final: 135
+- janela: 1
+- espera: 0
+- tempo_atual: 177
+- tempo_com_maquina: 178
+- nao cabe no tempo
+------
+- disponibilidade: 1083
+- janela final: 127
+- janela: 5
+- espera: 0
+- tempo_atual: 177
+- tempo_com_maquina: 182
+- nao cabe no tempo
+------
+- disponibilidade: 1083
+- janela final: 119
+- janela: 8
+- espera: 0
+- tempo_atual: 177
+- tempo_com_maquina: 185
+- nao cabe no tempo
+------
+- disponibilidade: 1083
+- janela final: 125
+- janela: 4
+- espera: 0
+- tempo_atual: 177
+- tempo_com_maquina: 181
+- nao cabe no tempo
+------
+- disponibilidade: 1083
+- janela final: 135
+- janela: 2
+- espera: 0
+- tempo_atual: 177
+- tempo_com_maquina: 179
+- nao cabe no tempo
+------
+- disponibilidade: 1083
+- janela final: 120
+- janela: 3
+- espera: 0
+- tempo_atual: 177
+- tempo_com_maquina: 180
+- nao cabe no tempo
+------
+- disponibilidade: 1083
+- janela final: 124
+- janela: 5
+- espera: 0
+- tempo_atual: 177
+- tempo_com_maquina: 182
+- nao cabe no tempo
+------
+- disponibilidade: 1083
+- janela final: 123
+- janela: 2
+- espera: 0
+- tempo_atual: 177
+- tempo_com_maquina: 179
+- nao cabe no tempo
+------
+- disponibilidade: 1083
+- janela final: 125
+- janela: 5
+- espera: 0
+- tempo_atual: 177
+- tempo_com_maquina: 182
+- nao cabe no tempo
+------
+- disponibilidade: 1083
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 177
+- tempo_com_maquina: 179
+- nao cabe no tempo
+------
+- disponibilidade: 1083
+- janela final: 125
+- janela: 4
+- espera: 0
+- tempo_atual: 177
+- tempo_com_maquina: 181
+- nao cabe no tempo
+------
+- disponibilidade: 1083
+- janela final: 125
+- janela: 4
+- espera: 0
+- tempo_atual: 177
+- tempo_com_maquina: 181
+- nao cabe no tempo
+------
+- disponibilidade: 1083
+- janela final: 125
+- janela: 1
+- espera: 0
+- tempo_atual: 177
+- tempo_com_maquina: 178
+- nao cabe no tempo
+------
+- disponibilidade: 1083
+- janela final: 125
+- janela: 3
+- espera: 0
+- tempo_atual: 177
+- tempo_com_maquina: 180
+- nao cabe no tempo
+------
+- disponibilidade: 1083
+- janela final: 125
+- janela: 2
+- espera: 0
+- tempo_atual: 177
+- tempo_com_maquina: 179
+- nao cabe no tempo
+------
+- disponibilidade: 1083
+- janela final: 145
+- janela: 1
+- espera: 0
+- tempo_atual: 177
+- tempo_com_maquina: 178
+- nao cabe no tempo
+------
+- disponibilidade: 1083
+- janela final: 200
+- janela: 1
+- espera: 0
+- tempo_atual: 177
+- tempo_com_maquina: 178
+- pode inserir
+------
+- disponibilidade: 1082
+- janela final: 200
+- janela: 2
+- espera: 0
+- tempo_atual: 178
+- tempo_com_maquina: 180
+- pode inserir
+------
+- disponibilidade: 1080
+- janela final: 200
+- janela: 4
+- espera: 0
+- tempo_atual: 180
+- tempo_com_maquina: 184
+- pode inserir
+------
+- disponibilidade: 1076
+- janela final: 200
+- janela: 4
+- espera: 0
+- tempo_atual: 184
+- tempo_com_maquina: 188
+- pode inserir
+------
+- disponibilidade: 1072
+- janela final: 150
+- janela: 4
+- espera: 0
+- tempo_atual: 188
+- tempo_com_maquina: 192
+- nao cabe no tempo
+------
+- disponibilidade: 1072
+- janela final: 150
+- janela: 4
+- espera: 0
+- tempo_atual: 188
+- tempo_com_maquina: 192
+- nao cabe no tempo
+------
+- disponibilidade: 1072
+- janela final: 150
+- janela: 1
+- espera: 0
+- tempo_atual: 188
+- tempo_com_maquina: 189
+- nao cabe no tempo
+------
+- disponibilidade: 1072
+- janela final: 150
+- janela: 5
+- espera: 0
+- tempo_atual: 188
+- tempo_com_maquina: 193
+- nao cabe no tempo
+------
+- disponibilidade: 1072
+- janela final: 150
+- janela: 3
+- espera: 0
+- tempo_atual: 188
+- tempo_com_maquina: 191
+- nao cabe no tempo
+------
+- disponibilidade: 1072
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 188
+- tempo_com_maquina: 190
+- nao cabe no tempo
+------
+- disponibilidade: 1072
+- janela final: 150
+- janela: 2
+- espera: 0
+- tempo_atual: 188
+- tempo_com_maquina: 190
+- nao cabe no tempo
+------
+soma: 7 | config = [  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  , ]
+
+
+
+--------
+
+Equipe | Total | Utilizado | Livre |
+| :-: | :-: | :-: | :-: |
+| 0 | 1260 | 188 | 1072
+| 1 | 1250 | 199 | 1051
+| 2 | 1250 | 0 | 1250
+| 3 | 1260 | 199 | 1061
+| 4 | 1250 | 0 | 1250
+| 5 | 1260 | 0 | 1260
+| 6 | 1200 | 0 | 1200
+| 7 | 1250 | 0 | 1250
+
+## Equipe 0
+[6, 9, 13, 14, 16, 19, 20, 21, 22, 23, 24, 26, 34, 35, 36, 38, 40, 42, 43, 44, 49, 52, 54, 55, 56, 63, 70, 72, 74, 76, 77, 78, 79, 81, 82, 83, 84, 87, 93, 98, 100, 101, 102, 103, 104, 109, 111, 114, 115, 116, 119, 121, 122, 125, 126, 128, 136, 145, 148, 149, 151, 153, 155, 156, 161, 165, 166, 167, 169, 173, 177, 178, 180, 184, 188]
+| janela | ind. Ativ. | origem | Inicial | esperou | historico |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| 3 | 0 | 0 | 3 | 3 | 6|
+| 3 | 0 | 1 | 3 | 0 | 9|
+| 4 | 0 | 2 | 4 | 0 | 13|
+| 1 | 0 | 3 | 7 | 0 | 14|
+| 2 | 0 | 4 | 3 | 0 | 16|
+| 3 | 0 | 5 | 3 | 0 | 19|
+| 1 | 0 | 6 | 4 | 0 | 20|
+| 1 | 0 | 7 | 7 | 0 | 21|
+| 1 | 0 | 8 | 0 | 0 | 22|
+| 1 | 0 | 9 | 2 | 0 | 23|
+| 1 | 0 | 10 | 1 | 0 | 24|
+| 2 | 0 | 11 | 3 | 0 | 26|
+| 8 | 0 | 12 | 3 | 0 | 34|
+| 1 | 0 | 13 | 4 | 0 | 35|
+| 1 | 0 | 14 | 7 | 0 | 36|
+| 2 | 0 | 15 | 4 | 0 | 38|
+| 2 | 0 | 16 | 7 | 0 | 40|
+| 2 | 0 | 17 | 0 | 0 | 42|
+| 1 | 0 | 18 | 1 | 0 | 43|
+| 1 | 0 | 19 | 1 | 0 | 44|
+| 5 | 0 | 20 | 10 | 0 | 49|
+| 3 | 0 | 21 | 15 | 0 | 52|
+| 2 | 0 | 22 | 2 | 0 | 54|
+| 1 | 0 | 23 | 3 | 0 | 55|
+| 1 | 0 | 24 | 6 | 0 | 56|
+| 7 | 0 | 25 | 14 | 0 | 63|
+| 7 | 0 | 26 | 11 | 0 | 70|
+| 2 | 0 | 27 | 10 | 0 | 72|
+| 2 | 0 | 28 | 0 | 0 | 74|
+| 2 | 0 | 29 | 0 | 0 | 76|
+| 1 | 4 | 0 | 3 | 0 | 77|
+| 1 | 4 | 1 | 3 | 0 | 78|
+| 1 | 4 | 2 | 4 | 0 | 79|
+| 2 | 4 | 3 | 7 | 0 | 81|
+| 1 | 4 | 4 | 3 | 0 | 82|
+| 1 | 4 | 5 | 3 | 0 | 83|
+| 1 | 4 | 6 | 4 | 0 | 84|
+| 3 | 4 | 7 | 7 | 0 | 87|
+| 6 | 4 | 8 | 0 | 0 | 93|
+| 5 | 4 | 9 | 2 | 0 | 98|
+| 2 | 4 | 10 | 1 | 0 | 100|
+| 1 | 4 | 11 | 3 | 0 | 101|
+| 1 | 4 | 12 | 3 | 0 | 102|
+| 1 | 4 | 13 | 4 | 0 | 103|
+| 1 | 4 | 14 | 7 | 0 | 104|
+| 5 | 4 | 15 | 4 | 0 | 109|
+| 2 | 4 | 16 | 7 | 0 | 111|
+| 3 | 4 | 17 | 0 | 0 | 114|
+| 1 | 4 | 18 | 1 | 0 | 115|
+| 1 | 4 | 19 | 1 | 0 | 116|
+| 3 | 4 | 20 | 10 | 0 | 119|
+| 2 | 4 | 21 | 15 | 0 | 121|
+| 1 | 4 | 22 | 2 | 0 | 122|
+| 3 | 4 | 23 | 3 | 0 | 125|
+| 1 | 4 | 24 | 6 | 0 | 126|
+| 2 | 4 | 25 | 14 | 0 | 128|
+| 8 | 4 | 26 | 11 | 0 | 136|
+| 9 | 4 | 27 | 10 | 0 | 145|
+| 3 | 4 | 28 | 0 | 0 | 148|
+| 1 | 9 | 19 | 1 | 0 | 149|
+| 2 | 9 | 20 | 10 | 0 | 151|
+| 2 | 9 | 21 | 15 | 0 | 153|
+| 2 | 9 | 22 | 2 | 0 | 155|
+| 1 | 1 | 19 | 1 | 0 | 156|
+| 5 | 1 | 20 | 10 | 0 | 161|
+| 4 | 1 | 21 | 15 | 0 | 165|
+| 1 | 1 | 22 | 2 | 0 | 166|
+| 1 | 14 | 19 | 1 | 0 | 167|
+| 2 | 14 | 20 | 10 | 0 | 169|
+| 4 | 14 | 21 | 15 | 0 | 173|
+| 4 | 14 | 22 | 2 | 0 | 177|
+| 1 | 21 | 19 | 1 | 0 | 178|
+| 2 | 21 | 20 | 10 | 0 | 180|
+| 4 | 21 | 21 | 15 | 0 | 184|
+| 4 | 21 | 22 | 2 | 0 | 188|
+
+
+## Equipe 1
+[4, 5, 6, 9, 10, 11, 12, 15, 21, 26, 28, 29, 30, 31, 32, 37, 39, 42, 43, 44, 46, 49, 50, 54, 57, 61, 63, 66, 69, 72, 74, 77, 78, 79, 81, 84, 85, 86, 88, 91, 92, 93, 94, 99, 101, 108, 110, 113, 114, 115, 116, 117, 118, 119, 123, 125, 127, 129, 133, 138, 139, 140, 142, 145, 146, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 162, 165, 168, 169, 172, 175, 178, 179, 180, 181, 182, 183, 185, 188, 189, 190, 194, 197, 199]
+| janela | ind. Ativ. | origem | Inicial | esperou | historico |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| 1 | 15 | 0 | 3 | 3 | 4|
+| 1 | 15 | 1 | 3 | 0 | 5|
+| 1 | 15 | 2 | 4 | 0 | 6|
+| 2 | 15 | 3 | 7 | 1 | 9|
+| 1 | 15 | 4 | 3 | 0 | 10|
+| 1 | 15 | 5 | 3 | 0 | 11|
+| 1 | 15 | 6 | 4 | 0 | 12|
+| 3 | 15 | 7 | 7 | 0 | 15|
+| 6 | 15 | 8 | 0 | 0 | 21|
+| 5 | 15 | 9 | 2 | 0 | 26|
+| 2 | 15 | 10 | 1 | 0 | 28|
+| 1 | 15 | 11 | 3 | 0 | 29|
+| 1 | 15 | 12 | 3 | 0 | 30|
+| 1 | 15 | 13 | 4 | 0 | 31|
+| 1 | 15 | 14 | 7 | 0 | 32|
+| 5 | 15 | 15 | 4 | 0 | 37|
+| 2 | 15 | 16 | 7 | 0 | 39|
+| 3 | 15 | 17 | 0 | 0 | 42|
+| 1 | 15 | 18 | 1 | 0 | 43|
+| 1 | 15 | 19 | 1 | 0 | 44|
+| 2 | 15 | 20 | 10 | 0 | 46|
+| 3 | 15 | 21 | 15 | 0 | 49|
+| 1 | 15 | 22 | 2 | 0 | 50|
+| 4 | 15 | 23 | 3 | 0 | 54|
+| 3 | 15 | 24 | 6 | 0 | 57|
+| 4 | 15 | 25 | 14 | 0 | 61|
+| 2 | 15 | 26 | 11 | 0 | 63|
+| 3 | 15 | 27 | 10 | 0 | 66|
+| 3 | 15 | 28 | 0 | 0 | 69|
+| 3 | 15 | 29 | 0 | 0 | 72|
+| 2 | 17 | 0 | 3 | 0 | 74|
+| 3 | 17 | 1 | 3 | 0 | 77|
+| 1 | 17 | 2 | 4 | 0 | 78|
+| 1 | 17 | 3 | 7 | 0 | 79|
+| 2 | 17 | 4 | 3 | 0 | 81|
+| 3 | 17 | 5 | 3 | 0 | 84|
+| 1 | 17 | 6 | 4 | 0 | 85|
+| 1 | 17 | 7 | 7 | 0 | 86|
+| 2 | 17 | 8 | 0 | 0 | 88|
+| 3 | 17 | 9 | 2 | 0 | 91|
+| 1 | 17 | 10 | 1 | 0 | 92|
+| 1 | 17 | 11 | 3 | 0 | 93|
+| 1 | 17 | 12 | 3 | 0 | 94|
+| 5 | 17 | 13 | 4 | 0 | 99|
+| 2 | 17 | 14 | 7 | 0 | 101|
+| 7 | 17 | 15 | 4 | 0 | 108|
+| 2 | 17 | 16 | 7 | 0 | 110|
+| 3 | 17 | 17 | 0 | 0 | 113|
+| 1 | 17 | 18 | 1 | 0 | 114|
+| 1 | 17 | 19 | 1 | 0 | 115|
+| 1 | 17 | 20 | 10 | 0 | 116|
+| 1 | 17 | 21 | 15 | 0 | 117|
+| 1 | 17 | 22 | 2 | 0 | 118|
+| 1 | 17 | 23 | 3 | 0 | 119|
+| 4 | 17 | 24 | 6 | 0 | 123|
+| 2 | 17 | 25 | 14 | 0 | 125|
+| 2 | 17 | 26 | 11 | 0 | 127|
+| 2 | 17 | 27 | 10 | 0 | 129|
+| 4 | 17 | 28 | 0 | 0 | 133|
+| 5 | 17 | 29 | 0 | 0 | 138|
+| 1 | 22 | 18 | 1 | 0 | 139|
+| 1 | 22 | 19 | 1 | 0 | 140|
+| 2 | 22 | 20 | 10 | 0 | 142|
+| 3 | 22 | 21 | 15 | 0 | 145|
+| 1 | 22 | 22 | 2 | 0 | 146|
+| 4 | 22 | 23 | 3 | 0 | 150|
+| 1 | 24 | 19 | 1 | 0 | 151|
+| 1 | 24 | 20 | 10 | 0 | 152|
+| 1 | 24 | 21 | 15 | 0 | 153|
+| 1 | 24 | 22 | 2 | 0 | 154|
+| 1 | 10 | 19 | 1 | 0 | 155|
+| 1 | 10 | 20 | 10 | 0 | 156|
+| 1 | 10 | 21 | 15 | 0 | 157|
+| 1 | 10 | 22 | 2 | 0 | 158|
+| 1 | 12 | 19 | 1 | 0 | 159|
+| 3 | 12 | 20 | 10 | 0 | 162|
+| 3 | 12 | 21 | 15 | 0 | 165|
+| 3 | 12 | 22 | 2 | 0 | 168|
+| 1 | 19 | 19 | 1 | 0 | 169|
+| 3 | 19 | 20 | 10 | 0 | 172|
+| 3 | 19 | 21 | 15 | 0 | 175|
+| 3 | 19 | 22 | 2 | 0 | 178|
+| 1 | 2 | 19 | 1 | 0 | 179|
+| 1 | 2 | 20 | 10 | 0 | 180|
+| 1 | 2 | 21 | 15 | 0 | 181|
+| 1 | 2 | 22 | 2 | 0 | 182|
+| 1 | 7 | 19 | 1 | 0 | 183|
+| 2 | 7 | 20 | 10 | 0 | 185|
+| 3 | 7 | 21 | 15 | 0 | 188|
+| 1 | 7 | 22 | 2 | 0 | 189|
+| 1 | 5 | 19 | 1 | 0 | 190|
+| 4 | 5 | 20 | 10 | 0 | 194|
+| 3 | 5 | 21 | 15 | 0 | 197|
+| 2 | 5 | 22 | 2 | 0 | 199|
+
+
+## Equipe 2
+[]
+| janela | ind. Ativ. | origem | Inicial | esperou | historico |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+
+
+## Equipe 3
+[4, 8, 10, 11, 16, 24, 28, 30, 33, 38, 40, 45, 47, 51, 55, 56, 59, 61, 62, 63, 64, 65, 69, 70, 71, 73, 75, 77, 79, 80, 81, 85, 87, 88, 93, 101, 105, 107, 110, 115, 117, 122, 124, 125, 126, 127, 128, 129, 133, 134, 135, 137, 139, 141, 143, 144, 145, 146, 150, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 165, 168, 169, 173, 174, 176, 177, 178, 179, 183, 184, 188, 190, 191, 192, 196, 198, 199]
+| janela | ind. Ativ. | origem | Inicial | esperou | historico |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| 1 | 18 | 0 | 3 | 3 | 4|
+| 4 | 18 | 1 | 3 | 0 | 8|
+| 2 | 18 | 2 | 4 | 0 | 10|
+| 1 | 18 | 3 | 7 | 0 | 11|
+| 5 | 18 | 4 | 3 | 0 | 16|
+| 8 | 18 | 5 | 3 | 0 | 24|
+| 4 | 18 | 6 | 4 | 0 | 28|
+| 2 | 18 | 7 | 7 | 0 | 30|
+| 3 | 18 | 8 | 0 | 0 | 33|
+| 5 | 18 | 9 | 2 | 0 | 38|
+| 2 | 18 | 10 | 1 | 0 | 40|
+| 5 | 18 | 11 | 3 | 0 | 45|
+| 2 | 18 | 12 | 3 | 0 | 47|
+| 4 | 18 | 13 | 4 | 0 | 51|
+| 4 | 18 | 14 | 7 | 0 | 55|
+| 1 | 18 | 15 | 4 | 0 | 56|
+| 3 | 18 | 16 | 7 | 0 | 59|
+| 2 | 18 | 17 | 0 | 0 | 61|
+| 1 | 18 | 18 | 1 | 0 | 62|
+| 1 | 18 | 19 | 1 | 0 | 63|
+| 1 | 18 | 20 | 10 | 0 | 64|
+| 1 | 18 | 21 | 15 | 0 | 65|
+| 4 | 18 | 22 | 2 | 0 | 69|
+| 1 | 18 | 23 | 3 | 0 | 70|
+| 1 | 18 | 24 | 6 | 0 | 71|
+| 2 | 18 | 25 | 14 | 0 | 73|
+| 2 | 18 | 26 | 11 | 0 | 75|
+| 2 | 18 | 27 | 10 | 0 | 77|
+| 2 | 18 | 28 | 0 | 0 | 79|
+| 1 | 18 | 29 | 0 | 0 | 80|
+| 1 | 25 | 0 | 3 | 0 | 81|
+| 4 | 25 | 1 | 3 | 0 | 85|
+| 2 | 25 | 2 | 4 | 0 | 87|
+| 1 | 25 | 3 | 7 | 0 | 88|
+| 5 | 25 | 4 | 3 | 0 | 93|
+| 8 | 25 | 5 | 3 | 0 | 101|
+| 4 | 25 | 6 | 4 | 0 | 105|
+| 2 | 25 | 7 | 7 | 0 | 107|
+| 3 | 25 | 8 | 0 | 0 | 110|
+| 5 | 25 | 9 | 2 | 0 | 115|
+| 2 | 25 | 10 | 1 | 0 | 117|
+| 5 | 25 | 11 | 3 | 0 | 122|
+| 2 | 25 | 12 | 3 | 0 | 124|
+| 1 | 25 | 15 | 4 | 0 | 125|
+| 1 | 25 | 18 | 1 | 0 | 126|
+| 1 | 25 | 19 | 1 | 0 | 127|
+| 1 | 25 | 20 | 10 | 0 | 128|
+| 1 | 25 | 21 | 15 | 0 | 129|
+| 4 | 25 | 22 | 2 | 0 | 133|
+| 1 | 25 | 23 | 3 | 0 | 134|
+| 1 | 25 | 24 | 6 | 0 | 135|
+| 2 | 25 | 25 | 14 | 0 | 137|
+| 2 | 25 | 26 | 11 | 0 | 139|
+| 2 | 25 | 27 | 10 | 0 | 141|
+| 2 | 25 | 28 | 0 | 0 | 143|
+| 1 | 25 | 29 | 0 | 0 | 144|
+| 1 | 8 | 18 | 1 | 0 | 145|
+| 1 | 8 | 19 | 1 | 0 | 146|
+| 4 | 8 | 20 | 10 | 0 | 150|
+| 2 | 8 | 21 | 15 | 0 | 152|
+| 1 | 8 | 22 | 2 | 0 | 153|
+| 1 | 16 | 19 | 1 | 0 | 154|
+| 1 | 16 | 20 | 10 | 0 | 155|
+| 1 | 16 | 21 | 15 | 0 | 156|
+| 1 | 16 | 22 | 2 | 0 | 157|
+| 1 | 23 | 19 | 1 | 0 | 158|
+| 1 | 23 | 20 | 10 | 0 | 159|
+| 1 | 23 | 21 | 15 | 0 | 160|
+| 1 | 23 | 22 | 2 | 0 | 161|
+| 1 | 3 | 19 | 1 | 0 | 162|
+| 1 | 3 | 20 | 10 | 0 | 163|
+| 2 | 3 | 21 | 15 | 0 | 165|
+| 3 | 3 | 22 | 2 | 0 | 168|
+| 1 | 6 | 19 | 1 | 0 | 169|
+| 4 | 6 | 20 | 10 | 0 | 173|
+| 1 | 6 | 21 | 15 | 0 | 174|
+| 2 | 6 | 22 | 2 | 0 | 176|
+| 1 | 11 | 19 | 1 | 0 | 177|
+| 1 | 11 | 20 | 10 | 0 | 178|
+| 1 | 11 | 21 | 15 | 0 | 179|
+| 4 | 11 | 22 | 2 | 0 | 183|
+| 1 | 13 | 19 | 1 | 0 | 184|
+| 4 | 13 | 20 | 10 | 0 | 188|
+| 2 | 13 | 21 | 15 | 0 | 190|
+| 1 | 13 | 22 | 2 | 0 | 191|
+| 1 | 20 | 19 | 1 | 0 | 192|
+| 4 | 20 | 20 | 10 | 0 | 196|
+| 2 | 20 | 21 | 15 | 0 | 198|
+| 1 | 20 | 22 | 2 | 0 | 199|
+
+
+## Equipe 4
+[]
+| janela | ind. Ativ. | origem | Inicial | esperou | historico |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+
+
+## Equipe 5
+[]
+| janela | ind. Ativ. | origem | Inicial | esperou | historico |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+
+
+## Equipe 6
+[]
+| janela | ind. Ativ. | origem | Inicial | esperou | historico |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+
+
+## Equipe 7
+[]
+| janela | ind. Ativ. | origem | Inicial | esperou | historico |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+
+
