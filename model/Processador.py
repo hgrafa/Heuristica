@@ -61,7 +61,7 @@ class Processador:
         configuracao = self.dados.configuracoes[self.index]
         equipes_disponiveis = self.__captura_equipes_disponiveis__(
             configuracao)
-        self.__distribui_para_equipes_disponiveis__(equipes_disponiveis)
+        self.distribui_para_equipes_disponiveis(equipes_disponiveis)
 
         self.index += 1
         return True
@@ -78,7 +78,7 @@ class Processador:
 
     # ------------------------------------------
 
-    def __distribui_para_equipes_disponiveis__(self, equipes_disponiveis):
+    def distribui_para_equipes_disponiveis(self, equipes_disponiveis):
 
         processamento = self.dados.processamentos[self.index]
 
@@ -91,7 +91,7 @@ class Processador:
             )
 
             filtro = Filtro(maquina, equipes_disponiveis)
-            filtro.filtra__por_janela_final()
+            filtro.filtra_por_janela_final()
             filtro.filtra_por_disponibilidade()
             filtro.ordena(
                 por='janela_final',
