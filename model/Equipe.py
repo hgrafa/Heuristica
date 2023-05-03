@@ -21,6 +21,9 @@ class Equipe:
 
     @property
     def tempo_de_processamento(self):
+        if len(self.historico) == 0:
+            return 0
+
         tempo_de_processamento = self.historico[-1]
         return tempo_de_processamento if tempo_de_processamento >= 0 else 0
 
@@ -29,7 +32,9 @@ class Equipe:
     @property
     def tempo_livre(self):
         disponibilidade = self.disponibilidade
-        tempo_atual = self.historico[-1]  # pega o ultimo historico
+
+        # pega o ultimo historico
+        tempo_atual = self.historico[-1] if len(self.historico) != 0 else 0
         return disponibilidade - tempo_atual
 
     # ------------------------------------------
@@ -38,8 +43,11 @@ class Equipe:
         if not eh_maquina(nova_maquina):
             return
 
+        print(f"- disponibilidade: {self.tempo_livre}")
+        if self.tempo_livre < nova_maquina.tempo_processamento:
+            return
+
         janela_final_valida = self.esta_dentro_da_janela_final(nova_maquina)
-        self.__ajusta_tempo_janela_final__(nova_maquina)
 
         if not janela_final_valida:
             return False
@@ -56,9 +64,20 @@ class Equipe:
     def esta_dentro_da_janela_final(self, nova_maquina):
         janela_final = self.janela_final[nova_maquina.index]
         tempo_atual = self.tempo_de_processamento
-        tempo_com_nova_maquina = tempo_atual + nova_maquina.tempo_processamento
 
-        return tempo_com_nova_maquina <= janela_final
+        novo_tempo, espera = self.calcula_espera_por_janela_inicial(
+            nova_maquina)
+
+        print(f'- janela final: {janela_final}')
+        print(f'- janela: {nova_maquina.tempo_processamento}')
+        print(f'- espera: {espera}')
+        print(f'- tempo_atual: {tempo_atual}')
+        print(f'- tempo_com_maquina: {novo_tempo}')
+        print('- pode inserir' if novo_tempo <=
+              janela_final else '- nao cabe no tempo')
+        print('------')
+
+        return novo_tempo <= janela_final
 
     # ------------------------------------------
 
