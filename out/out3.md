@@ -2,28 +2,674 @@
 
 soma: 1 | config = [ X, X, X, X, X, X, X, X, X, ]
 
+- disponibilidade: 70
+- janela final: 37
+- janela: 2
+- espera: 3
+- tempo_atual: 0
+- tempo_com_maquina: 5
+- pode inserir
+------
+- disponibilidade: 65
+- janela final: 39
+- janela: 1
+- espera: 0
+- tempo_atual: 5
+- tempo_com_maquina: 6
+- pode inserir
+------
+- disponibilidade: 64
+- janela final: 35
+- janela: 3
+- espera: 0
+- tempo_atual: 6
+- tempo_com_maquina: 9
+- pode inserir
+------
+- disponibilidade: 61
+- janela final: 35
+- janela: 5
+- espera: 0
+- tempo_atual: 9
+- tempo_com_maquina: 14
+- pode inserir
+------
+- disponibilidade: 56
+- janela final: 47
+- janela: 2
+- espera: 0
+- tempo_atual: 14
+- tempo_com_maquina: 16
+- pode inserir
+------
+- disponibilidade: 54
+- janela final: 56
+- janela: 1
+- espera: 0
+- tempo_atual: 16
+- tempo_com_maquina: 17
+- pode inserir
+------
+- disponibilidade: 53
+- janela final: 100
+- janela: 1
+- espera: 0
+- tempo_atual: 17
+- tempo_com_maquina: 18
+- pode inserir
+------
+- disponibilidade: 52
+- janela final: 98
+- janela: 2
+- espera: 0
+- tempo_atual: 18
+- tempo_com_maquina: 20
+- pode inserir
+------
+- disponibilidade: 50
+- janela final: 78
+- janela: 3
+- espera: 0
+- tempo_atual: 20
+- tempo_com_maquina: 23
+- pode inserir
+------
+- disponibilidade: 47
+- janela final: 100
+- janela: 1
+- espera: 0
+- tempo_atual: 23
+- tempo_com_maquina: 24
+- pode inserir
+------
+- disponibilidade: 46
+- janela final: 100
+- janela: 2
+- espera: 0
+- tempo_atual: 24
+- tempo_com_maquina: 26
+- pode inserir
+------
+- disponibilidade: 44
+- janela final: 100
+- janela: 3
+- espera: 0
+- tempo_atual: 26
+- tempo_com_maquina: 29
+- pode inserir
+------
+- disponibilidade: 41
+- janela final: 100
+- janela: 3
+- espera: 0
+- tempo_atual: 29
+- tempo_com_maquina: 32
+- pode inserir
+------
+- disponibilidade: 38
+- janela final: 100
+- janela: 3
+- espera: 0
+- tempo_atual: 32
+- tempo_com_maquina: 35
+- pode inserir
+------
+- disponibilidade: 35
+- janela final: 100
+- janela: 3
+- espera: 0
+- tempo_atual: 35
+- tempo_com_maquina: 38
+- pode inserir
+------
 soma: 1 | config = [ X, X, X,  , X, X, X, X, X, ]
 
+- disponibilidade: 80
+- janela final: 37
+- janela: 2
+- espera: 3
+- tempo_atual: 0
+- tempo_com_maquina: 5
+- pode inserir
+------
+- disponibilidade: 75
+- janela final: 39
+- janela: 5
+- espera: 0
+- tempo_atual: 5
+- tempo_com_maquina: 10
+- pode inserir
+------
+- disponibilidade: 70
+- janela final: 35
+- janela: 6
+- espera: 0
+- tempo_atual: 10
+- tempo_com_maquina: 16
+- pode inserir
+------
+- disponibilidade: 64
+- janela final: 35
+- janela: 3
+- espera: 0
+- tempo_atual: 16
+- tempo_com_maquina: 19
+- pode inserir
+------
+- disponibilidade: 61
+- janela final: 47
+- janela: 2
+- espera: 0
+- tempo_atual: 19
+- tempo_com_maquina: 21
+- pode inserir
+------
+- disponibilidade: 59
+- janela final: 56
+- janela: 3
+- espera: 0
+- tempo_atual: 21
+- tempo_com_maquina: 24
+- pode inserir
+------
+- disponibilidade: 56
+- janela final: 100
+- janela: 5
+- espera: 0
+- tempo_atual: 24
+- tempo_com_maquina: 29
+- pode inserir
+------
+- disponibilidade: 51
+- janela final: 98
+- janela: 1
+- espera: 0
+- tempo_atual: 29
+- tempo_com_maquina: 30
+- pode inserir
+------
+- disponibilidade: 50
+- janela final: 78
+- janela: 3
+- espera: 0
+- tempo_atual: 30
+- tempo_com_maquina: 33
+- pode inserir
+------
+- disponibilidade: 47
+- janela final: 100
+- janela: 1
+- espera: 0
+- tempo_atual: 33
+- tempo_com_maquina: 34
+- pode inserir
+------
+- disponibilidade: 46
+- janela final: 100
+- janela: 1
+- espera: 0
+- tempo_atual: 34
+- tempo_com_maquina: 35
+- pode inserir
+------
+- disponibilidade: 45
+- janela final: 100
+- janela: 1
+- espera: 0
+- tempo_atual: 35
+- tempo_com_maquina: 36
+- pode inserir
+------
+- disponibilidade: 44
+- janela final: 100
+- janela: 1
+- espera: 0
+- tempo_atual: 36
+- tempo_com_maquina: 37
+- pode inserir
+------
+- disponibilidade: 43
+- janela final: 100
+- janela: 1
+- espera: 0
+- tempo_atual: 37
+- tempo_com_maquina: 38
+- pode inserir
+------
+- disponibilidade: 42
+- janela final: 100
+- janela: 4
+- espera: 0
+- tempo_atual: 38
+- tempo_com_maquina: 42
+- pode inserir
+------
 soma: 1 | config = [ X, X, X,  , X, X,  , X, X, ]
 
 soma: 2 | config = [ X, X, X,  , X, X,  , X, X, ]
 
+- disponibilidade: 80
+- janela final: 37
+- janela: 1
+- espera: 3
+- tempo_atual: 0
+- tempo_com_maquina: 4
+- pode inserir
+------
+- disponibilidade: 76
+- janela final: 39
+- janela: 1
+- espera: 0
+- tempo_atual: 4
+- tempo_com_maquina: 5
+- pode inserir
+------
+- disponibilidade: 75
+- janela final: 35
+- janela: 1
+- espera: 0
+- tempo_atual: 5
+- tempo_com_maquina: 6
+- pode inserir
+------
+- disponibilidade: 74
+- janela final: 35
+- janela: 2
+- espera: 1
+- tempo_atual: 6
+- tempo_com_maquina: 9
+- pode inserir
+------
+- disponibilidade: 71
+- janela final: 47
+- janela: 3
+- espera: 0
+- tempo_atual: 9
+- tempo_com_maquina: 12
+- pode inserir
+------
+- disponibilidade: 68
+- janela final: 56
+- janela: 3
+- espera: 0
+- tempo_atual: 12
+- tempo_com_maquina: 15
+- pode inserir
+------
+- disponibilidade: 65
+- janela final: 100
+- janela: 3
+- espera: 0
+- tempo_atual: 15
+- tempo_com_maquina: 18
+- pode inserir
+------
+- disponibilidade: 62
+- janela final: 98
+- janela: 3
+- espera: 0
+- tempo_atual: 18
+- tempo_com_maquina: 21
+- pode inserir
+------
+- disponibilidade: 59
+- janela final: 78
+- janela: 3
+- espera: 0
+- tempo_atual: 21
+- tempo_com_maquina: 24
+- pode inserir
+------
+- disponibilidade: 56
+- janela final: 100
+- janela: 3
+- espera: 0
+- tempo_atual: 24
+- tempo_com_maquina: 27
+- pode inserir
+------
+- disponibilidade: 53
+- janela final: 100
+- janela: 1
+- espera: 0
+- tempo_atual: 27
+- tempo_com_maquina: 28
+- pode inserir
+------
+- disponibilidade: 52
+- janela final: 100
+- janela: 1
+- espera: 0
+- tempo_atual: 28
+- tempo_com_maquina: 29
+- pode inserir
+------
+- disponibilidade: 51
+- janela final: 100
+- janela: 2
+- espera: 0
+- tempo_atual: 29
+- tempo_com_maquina: 31
+- pode inserir
+------
+- disponibilidade: 49
+- janela final: 100
+- janela: 2
+- espera: 0
+- tempo_atual: 31
+- tempo_com_maquina: 33
+- pode inserir
+------
+- disponibilidade: 47
+- janela final: 100
+- janela: 2
+- espera: 0
+- tempo_atual: 33
+- tempo_com_maquina: 35
+- pode inserir
+------
 soma: 2 | config = [ X, X,  ,  , X, X,  , X, X, ]
 
+- disponibilidade: 38
+- janela final: 37
+- janela: 1
+- espera: 0
+- tempo_atual: 42
+- tempo_com_maquina: 43
+- nao cabe no tempo
+------
+- disponibilidade: 38
+- janela final: 39
+- janela: 1
+- espera: 0
+- tempo_atual: 42
+- tempo_com_maquina: 43
+- nao cabe no tempo
+------
+- disponibilidade: 38
+- janela final: 35
+- janela: 1
+- espera: 0
+- tempo_atual: 42
+- tempo_com_maquina: 43
+- nao cabe no tempo
+------
+- disponibilidade: 38
+- janela final: 35
+- janela: 3
+- espera: 0
+- tempo_atual: 42
+- tempo_com_maquina: 45
+- nao cabe no tempo
+------
+- disponibilidade: 38
+- janela final: 47
+- janela: 5
+- espera: 0
+- tempo_atual: 42
+- tempo_com_maquina: 47
+- pode inserir
+------
+- disponibilidade: 33
+- janela final: 56
+- janela: 2
+- espera: 0
+- tempo_atual: 47
+- tempo_com_maquina: 49
+- pode inserir
+------
+- disponibilidade: 31
+- janela final: 100
+- janela: 8
+- espera: 0
+- tempo_atual: 49
+- tempo_com_maquina: 57
+- pode inserir
+------
+- disponibilidade: 23
+- janela final: 98
+- janela: 1
+- espera: 0
+- tempo_atual: 57
+- tempo_com_maquina: 58
+- pode inserir
+------
+- disponibilidade: 22
+- janela final: 78
+- janela: 1
+- espera: 0
+- tempo_atual: 58
+- tempo_com_maquina: 59
+- pode inserir
+------
+- disponibilidade: 21
+- janela final: 100
+- janela: 5
+- espera: 0
+- tempo_atual: 59
+- tempo_com_maquina: 64
+- pode inserir
+------
+- disponibilidade: 16
+- janela final: 100
+- janela: 2
+- espera: 0
+- tempo_atual: 64
+- tempo_com_maquina: 66
+- pode inserir
+------
+- disponibilidade: 14
+- janela final: 100
+- janela: 1
+- espera: 0
+- tempo_atual: 66
+- tempo_com_maquina: 67
+- pode inserir
+------
+- disponibilidade: 13
+- janela final: 100
+- janela: 1
+- espera: 0
+- tempo_atual: 67
+- tempo_com_maquina: 68
+- pode inserir
+------
+- disponibilidade: 12
+- janela final: 100
+- janela: 2
+- espera: 0
+- tempo_atual: 68
+- tempo_com_maquina: 70
+- pode inserir
+------
+- disponibilidade: 10
+- janela final: 100
+- janela: 3
+- espera: 0
+- tempo_atual: 70
+- tempo_com_maquina: 73
+- pode inserir
+------
 soma: 2 | config = [ X, X,  ,  ,  , X,  , X, X, ]
 
 soma: 3 | config = [ X, X,  ,  ,  , X,  , X, X, ]
 
+- disponibilidade: 7
+- janela final: 37
+- janela: 3
+- espera: 0
+- tempo_atual: 73
+- tempo_com_maquina: 76
+- nao cabe no tempo
+------
+- disponibilidade: 7
+- janela final: 39
+- janela: 3
+- espera: 0
+- tempo_atual: 73
+- tempo_com_maquina: 76
+- nao cabe no tempo
+------
+- disponibilidade: 7
+- janela final: 35
+- janela: 4
+- espera: 0
+- tempo_atual: 73
+- tempo_com_maquina: 77
+- nao cabe no tempo
+------
+- disponibilidade: 7
+- janela final: 35
+- janela: 1
+- espera: 0
+- tempo_atual: 73
+- tempo_com_maquina: 74
+- nao cabe no tempo
+------
+- disponibilidade: 7
+- janela final: 47
+- janela: 1
+- espera: 0
+- tempo_atual: 73
+- tempo_com_maquina: 74
+- nao cabe no tempo
+------
+- disponibilidade: 7
+- janela final: 56
+- janela: 1
+- espera: 0
+- tempo_atual: 73
+- tempo_com_maquina: 74
+- nao cabe no tempo
+------
+- disponibilidade: 7
+- janela final: 100
+- janela: 1
+- espera: 0
+- tempo_atual: 73
+- tempo_com_maquina: 74
+- pode inserir
+------
+- disponibilidade: 6
+- janela final: 98
+- janela: 1
+- espera: 0
+- tempo_atual: 74
+- tempo_com_maquina: 75
+- pode inserir
+------
+- disponibilidade: 5
+- janela final: 78
+- janela: 1
+- espera: 0
+- tempo_atual: 75
+- tempo_com_maquina: 76
+- pode inserir
+------
+- disponibilidade: 4
+- janela final: 100
+- janela: 1
+- espera: 0
+- tempo_atual: 76
+- tempo_com_maquina: 77
+- pode inserir
+------
+- disponibilidade: 3
+- janela final: 100
+- janela: 1
+- espera: 0
+- tempo_atual: 77
+- tempo_com_maquina: 78
+- pode inserir
+------
+- disponibilidade: 2
+- janela final: 100
+- janela: 1
+- espera: 0
+- tempo_atual: 78
+- tempo_com_maquina: 79
+- pode inserir
+------
+- disponibilidade: 1
+- janela final: 100
+- janela: 1
+- espera: 0
+- tempo_atual: 79
+- tempo_com_maquina: 80
+- pode inserir
+------
+- disponibilidade: 0
+- disponibilidade: 0
 soma: 3 | config = [  , X,  ,  ,  , X,  , X, X, ]
 
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
 soma: 3 | config = [  , X,  ,  ,  ,  ,  , X, X, ]
 
 soma: 4 | config = [  , X,  ,  ,  ,  ,  , X, X, ]
 
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
 soma: 4 | config = [  ,  ,  ,  ,  ,  ,  , X, X, ]
 
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
 soma: 4 | config = [  ,  ,  ,  ,  ,  ,  ,  , X, ]
 
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
+- disponibilidade: 0
 soma: 4 | config = [  ,  ,  ,  ,  ,  ,  ,  ,  , ]
 
 
@@ -32,14 +678,14 @@ soma: 4 | config = [  ,  ,  ,  ,  ,  ,  ,  ,  , ]
 
 Equipe | Total | Utilizado | Livre |
 | :-: | :-: | :-: | :-: |
-| 0 | 80 | 112 | -32
-| 1 | 80 | 73 | 7
-| 2 | 70 | 87 | -17
-| 3 | 80 | 36 | 44
-| 4 | 80 | 6 | 74
+| 0 | 80 | 80 | 0
+| 1 | 80 | 35 | 45
+| 2 | 70 | 38 | 32
+| 3 | 80 | 0 | 80
+| 4 | 80 | 0 | 80
 
 ## Equipe 0
-[5, 10, 16, 19, 21, 24, 29, 30, 33, 34, 35, 36, 37, 38, 42, 43, 44, 45, 46, 47, 50, 53, 61, 62, 63, 68, 70, 74, 80, 83, 86, 91, 97, 99, 100, 101, 102, 103, 104, 105, 107, 110, 112]
+[5, 10, 16, 19, 21, 24, 29, 30, 33, 34, 35, 36, 37, 38, 42, 47, 49, 57, 58, 59, 64, 66, 67, 68, 70, 73, 74, 75, 76, 77, 78, 79, 80]
 | janela | ind. Ativ. | origem | Inicial | esperou | historico |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 2 | 6 | 0 | 3 | 3 | 5|
@@ -57,38 +703,28 @@ Equipe | Total | Utilizado | Livre |
 | 1 | 6 | 12 | 7 | 0 | 37|
 | 1 | 6 | 13 | 8 | 0 | 38|
 | 4 | 6 | 14 | 10 | 0 | 42|
-| 1 | 5 | 2 | 4 | 0 | 43|
-| 1 | 5 | 3 | 7 | 0 | 44|
-| 1 | 5 | 4 | 0 | 0 | 45|
-| 1 | 5 | 5 | 1 | 0 | 46|
-| 1 | 5 | 6 | 3 | 0 | 47|
-| 3 | 5 | 7 | 4 | 0 | 50|
-| 3 | 5 | 8 | 7 | 0 | 53|
-| 8 | 5 | 9 | 9 | 0 | 61|
-| 1 | 5 | 10 | 2 | 0 | 62|
-| 1 | 5 | 11 | 3 | 0 | 63|
-| 5 | 5 | 12 | 7 | 0 | 68|
-| 2 | 5 | 13 | 8 | 0 | 70|
-| 4 | 5 | 14 | 10 | 0 | 74|
-| 6 | 7 | 1 | 3 | 0 | 80|
-| 3 | 8 | 1 | 3 | 0 | 83|
-| 3 | 8 | 2 | 4 | 0 | 86|
-| 5 | 8 | 3 | 7 | 0 | 91|
-| 6 | 8 | 4 | 0 | 0 | 97|
-| 2 | 8 | 5 | 1 | 0 | 99|
-| 1 | 8 | 6 | 3 | 0 | 100|
-| 1 | 8 | 7 | 4 | 0 | 101|
-| 1 | 8 | 8 | 7 | 0 | 102|
-| 1 | 8 | 9 | 9 | 0 | 103|
-| 1 | 8 | 10 | 2 | 0 | 104|
-| 1 | 8 | 11 | 3 | 0 | 105|
-| 2 | 8 | 12 | 7 | 0 | 107|
-| 3 | 8 | 13 | 8 | 0 | 110|
-| 2 | 8 | 14 | 10 | 0 | 112|
+| 5 | 4 | 4 | 0 | 0 | 47|
+| 2 | 4 | 5 | 1 | 0 | 49|
+| 8 | 4 | 6 | 3 | 0 | 57|
+| 1 | 4 | 7 | 4 | 0 | 58|
+| 1 | 4 | 8 | 7 | 0 | 59|
+| 5 | 4 | 9 | 9 | 0 | 64|
+| 2 | 4 | 10 | 2 | 0 | 66|
+| 1 | 4 | 11 | 3 | 0 | 67|
+| 1 | 4 | 12 | 7 | 0 | 68|
+| 2 | 4 | 13 | 8 | 0 | 70|
+| 3 | 4 | 14 | 10 | 0 | 73|
+| 1 | 0 | 6 | 3 | 0 | 74|
+| 1 | 0 | 7 | 4 | 0 | 75|
+| 1 | 0 | 8 | 7 | 0 | 76|
+| 1 | 0 | 9 | 9 | 0 | 77|
+| 1 | 0 | 10 | 2 | 0 | 78|
+| 1 | 0 | 11 | 3 | 0 | 79|
+| 1 | 0 | 12 | 7 | 0 | 80|
 
 
 ## Equipe 1
-[4, 5, 6, 9, 12, 15, 18, 21, 24, 27, 28, 29, 31, 33, 35, 36, 37, 38, 41, 46, 48, 56, 57, 58, 63, 65, 66, 67, 69, 72, 73]
+[4, 5, 6, 9, 12, 15, 18, 21, 24, 27, 28, 29, 31, 33, 35]
 | janela | ind. Ativ. | origem | Inicial | esperou | historico |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 1 | 2 | 0 | 3 | 3 | 4|
@@ -106,26 +742,10 @@ Equipe | Total | Utilizado | Livre |
 | 2 | 2 | 12 | 7 | 0 | 31|
 | 2 | 2 | 13 | 8 | 0 | 33|
 | 2 | 2 | 14 | 10 | 0 | 35|
-| 1 | 4 | 0 | 3 | 0 | 36|
-| 1 | 4 | 1 | 3 | 0 | 37|
-| 1 | 4 | 2 | 4 | 0 | 38|
-| 3 | 4 | 3 | 7 | 0 | 41|
-| 5 | 4 | 4 | 0 | 0 | 46|
-| 2 | 4 | 5 | 1 | 0 | 48|
-| 8 | 4 | 6 | 3 | 0 | 56|
-| 1 | 4 | 7 | 4 | 0 | 57|
-| 1 | 4 | 8 | 7 | 0 | 58|
-| 5 | 4 | 9 | 9 | 0 | 63|
-| 2 | 4 | 10 | 2 | 0 | 65|
-| 1 | 4 | 11 | 3 | 0 | 66|
-| 1 | 4 | 12 | 7 | 0 | 67|
-| 2 | 4 | 13 | 8 | 0 | 69|
-| 3 | 4 | 14 | 10 | 0 | 72|
-| 1 | 5 | 0 | 3 | 0 | 73|
 
 
 ## Equipe 2
-[5, 6, 9, 14, 16, 17, 18, 20, 23, 24, 26, 29, 32, 35, 38, 41, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 61, 62, 63, 64, 65, 66, 68, 71, 73, 76, 81, 82, 85, 87]
+[5, 6, 9, 14, 16, 17, 18, 20, 23, 24, 26, 29, 32, 35, 38]
 | janela | ind. Ativ. | origem | Inicial | esperou | historico |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 2 | 3 | 0 | 3 | 3 | 5|
@@ -143,69 +763,17 @@ Equipe | Total | Utilizado | Livre |
 | 3 | 3 | 12 | 7 | 0 | 32|
 | 3 | 3 | 13 | 8 | 0 | 35|
 | 3 | 3 | 14 | 10 | 0 | 38|
-| 3 | 0 | 1 | 3 | 0 | 41|
-| 4 | 0 | 2 | 4 | 0 | 45|
-| 1 | 0 | 3 | 7 | 0 | 46|
-| 1 | 0 | 4 | 0 | 0 | 47|
-| 1 | 0 | 5 | 1 | 0 | 48|
-| 1 | 0 | 6 | 3 | 0 | 49|
-| 1 | 0 | 7 | 4 | 0 | 50|
-| 1 | 0 | 8 | 7 | 0 | 51|
-| 1 | 0 | 9 | 9 | 0 | 52|
-| 1 | 0 | 10 | 2 | 0 | 53|
-| 1 | 0 | 11 | 3 | 0 | 54|
-| 1 | 0 | 12 | 7 | 0 | 55|
-| 1 | 0 | 13 | 8 | 0 | 56|
-| 1 | 0 | 14 | 10 | 0 | 57|
-| 1 | 5 | 1 | 3 | 0 | 58|
-| 3 | 7 | 2 | 4 | 0 | 61|
-| 1 | 7 | 3 | 7 | 0 | 62|
-| 1 | 7 | 4 | 0 | 0 | 63|
-| 1 | 7 | 5 | 1 | 0 | 64|
-| 1 | 7 | 6 | 3 | 0 | 65|
-| 1 | 7 | 7 | 4 | 0 | 66|
-| 2 | 7 | 8 | 7 | 0 | 68|
-| 3 | 7 | 9 | 9 | 0 | 71|
-| 2 | 7 | 10 | 2 | 0 | 73|
-| 3 | 7 | 11 | 3 | 0 | 76|
-| 5 | 7 | 12 | 7 | 0 | 81|
-| 1 | 7 | 13 | 8 | 0 | 82|
-| 3 | 7 | 14 | 10 | 0 | 85|
-| 2 | 8 | 0 | 3 | 0 | 87|
 
 
 ## Equipe 3
-[5, 8, 9, 10, 12, 14, 16, 18, 20, 23, 27, 28, 29, 30, 31, 36]
+[]
 | janela | ind. Ativ. | origem | Inicial | esperou | historico |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 2 | 1 | 0 | 3 | 3 | 5|
-| 3 | 1 | 1 | 3 | 0 | 8|
-| 1 | 1 | 2 | 4 | 0 | 9|
-| 1 | 1 | 3 | 7 | 0 | 10|
-| 2 | 1 | 4 | 0 | 0 | 12|
-| 2 | 1 | 5 | 1 | 0 | 14|
-| 2 | 1 | 6 | 3 | 0 | 16|
-| 2 | 1 | 7 | 4 | 0 | 18|
-| 2 | 1 | 8 | 7 | 0 | 20|
-| 3 | 1 | 9 | 9 | 0 | 23|
-| 4 | 1 | 10 | 2 | 0 | 27|
-| 1 | 1 | 11 | 3 | 0 | 28|
-| 1 | 1 | 12 | 7 | 0 | 29|
-| 1 | 1 | 13 | 8 | 0 | 30|
-| 1 | 1 | 14 | 10 | 0 | 31|
-| 5 | 7 | 0 | 3 | 0 | 36|
 
 
 ## Equipe 4
-[6]
+[]
 | janela | ind. Ativ. | origem | Inicial | esperou | historico |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 3 | 0 | 0 | 3 | 3 | 6|
 
 
-
-----
-
-
-( size: **43**, random: **6)**
- 
