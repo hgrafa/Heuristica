@@ -44,7 +44,11 @@ class Equipe:
         if not janela_final_valida:
             return False
 
-        # TODO ! continuar para janela inicial
+        tempo_final, espera = self.calcula_espera_por_janela_inicial(
+            nova_maquina)
+
+        self.historico.append(tempo_final)
+        nova_maquina.tempo_de_espera = espera
         self.maquinas.append(nova_maquina)
 
     # ------------------------------------------
@@ -58,18 +62,20 @@ class Equipe:
 
     # ------------------------------------------
 
-    def __ajusta_janela_inicial__(self, nova_maquina):
+    def calcula_espera_por_janela_inicial(self, nova_maquina):
         index = nova_maquina.index
         janela = nova_maquina.tempo_processamento
-        horario_autorizado = self.janela_inicial[index]
+        horario_minimo = self.janela_inicial[index]
         tempo_inicial = self.tempo_de_processamento
 
-        # precisa esperar ?
-        tempo_final = max(tempo_inicial, horario_autorizado) + janela
-        tempo_de_espera = max(tempo_final - tempo_inicial, 0) - janela
-        nova_maquina.tempo_de_espera = tempo_de_espera
-        nova_maquina.janela_inicial = horario_autorizado
-        self.historico.append(tempo_final)
+        tempo_final = max(tempo_inicial, horario_minimo) + janela
+        delta_tempo = tempo_final - tempo_inicial
+
+        assert delta_tempo >= janela, f'o delta tempo de processamento da maquina teve problemas, delta_tempo = {delta_tempo}'
+
+        tempo_de_espera = delta_tempo - janela
+        nova_maquina.janela_inicial = horario_minimo
+        return tempo_final, tempo_de_espera
 
     # ------------------------------------------
 
