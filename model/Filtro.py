@@ -10,7 +10,7 @@ class Filtro:
 
     # ------------------------------------------
 
-    def filtra__por_janela_final(self):
+    def filtra_por_janela_final(self):
         disponiveis_pos_filtro = []
 
         for equipe in self.equipes_disponiveis:
