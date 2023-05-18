@@ -100,7 +100,7 @@ def simulated_annealing(istance_id, temperature, cooling_rate, freeze_temperatur
 
 print("# Heuristica\n")
 
-sol_inicial, sol_final = simulated_annealing(1, 100, 0.6, 20, 10)
+sol_inicial, sol_final = simulated_annealing(3, 100, 0.6, 20, 10)
 
 # sol_inicial, _ = initial_solution('instancia11')
 

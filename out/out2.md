@@ -368,3 +368,1032 @@ Equipe | Total | Utilizado | Livre |
 | 3 | 3 | 8 | 7 | 0 | 23|
 
 
+
+----
+
+
+( size: **16**, random: **2)**
+ 
+
+( size: **1**, random: **0)**
+ 
+
+( size: **9**, random: **3)**
+ 
+## Erro aqui! :x:
+## trocando a maquina...
+
+
+- tamanhos: (**origem:** 16 , **destino:** 9)
+- origem: 0 + linha_saida: 2
+
+- destino: 2 + linha_entrada: 3
+
+- maquina | 4 | 0 | 2 | 4 | 0 |
+- trocado!
+
+
+
+----
+
+
+( size: **15**, random: **2)**
+ 
+
+( size: **2**, random: **0)**
+ 
+
+( size: **15**, random: **1)**
+ 
+## trocando a maquina...
+
+
+- tamanhos: (**origem:** 15 , **destino:** 15)
+- origem: 0 + linha_saida: 2
+
+- destino: 0 + linha_entrada: 1
+
+- maquina | 1 | 0 | 3 | 7 | 0 |
+- trocado!
+
+
+
+----
+
+
+( size: **15**, random: **7)**
+ 
+
+( size: **2**, random: **0)**
+ 
+
+( size: **15**, random: **10)**
+ 
+## trocando a maquina...
+
+
+- tamanhos: (**origem:** 15 , **destino:** 15)
+- origem: 0 + linha_saida: 7
+
+- destino: 0 + linha_entrada: 10
+
+- maquina | 1 | 0 | 8 | 7 | 0 |
+- trocado!
+
+
+
+----
+
+
+( size: **15**, random: **11)**
+ 
+
+( size: **1**, random: **0)**
+ 
+
+( size: **9**, random: **7)**
+ 
+## Erro aqui! :x:
+## trocando a maquina...
+
+
+- tamanhos: (**origem:** 15 , **destino:** 9)
+- origem: 0 + linha_saida: 11
+
+- destino: 1 + linha_entrada: 7
+
+- maquina | 5 | 4 | 4 | 0 | 0 |
+- trocado!
+
+
+
+----
+
+
+( size: **14**, random: **1)**
+ 
+
+( size: **2**, random: **0)**
+ 
+
+( size: **14**, random: **7)**
+ 
+## trocando a maquina...
+
+
+- tamanhos: (**origem:** 14 , **destino:** 14)
+- origem: 0 + linha_saida: 1
+
+- destino: 0 + linha_entrada: 7
+
+- maquina | 1 | 0 | 3 | 7 | 0 |
+- trocado!
+
+
+
+----
+
+
+( size: **14**, random: **4)**
+ 
+
+( size: **2**, random: **0)**
+ 
+
+( size: **14**, random: **8)**
+ 
+## trocando a maquina...
+
+
+- tamanhos: (**origem:** 14 , **destino:** 14)
+- origem: 0 + linha_saida: 4
+
+- destino: 0 + linha_entrada: 8
+
+- maquina | 1 | 0 | 6 | 3 | 0 |
+- trocado!
+
+
+
+----
+
+
+( size: **14**, random: **12)**
+ 
+
+( size: **2**, random: **0)**
+ 
+
+( size: **14**, random: **6)**
+ 
+## trocando a maquina...
+
+
+- tamanhos: (**origem:** 14 , **destino:** 14)
+- origem: 0 + linha_saida: 12
+
+- destino: 0 + linha_entrada: 6
+
+- maquina | 8 | 4 | 6 | 3 | 0 |
+- trocado!
+
+
+
+----
+
+
+( size: **14**, random: **5)**
+ 
+
+( size: **2**, random: **1)**
+ 
+
+( size: **10**, random: **3)**
+ 
+## Erro aqui! :x:
+## trocando a maquina...
+
+
+- tamanhos: (**origem:** 14 , **destino:** 10)
+- origem: 0 + linha_saida: 5
+
+- destino: 1 + linha_entrada: 3
+
+- maquina | 1 | 4 | 0 | 3 | 0 |
+- trocado!
+
+
+
+----
+
+
+( size: **13**, random: **6)**
+ 
+
+( size: **2**, random: **1)**
+ 
+
+( size: **10**, random: **1)**
+ 
+## Erro aqui! :x:
+## trocando a maquina...
+
+
+- tamanhos: (**origem:** 13 , **destino:** 10)
+- origem: 0 + linha_saida: 6
+
+- destino: 2 + linha_entrada: 1
+
+- maquina | 1 | 0 | 3 | 7 | 0 |
+- trocado!
+
+
+
+----
+
+
+( size: **12**, random: **2)**
+ 
+
+( size: **2**, random: **1)**
+ 
+
+( size: **11**, random: **1)**
+ 
+## Erro aqui! :x:
+## trocando a maquina...
+
+
+- tamanhos: (**origem:** 12 , **destino:** 11)
+- origem: 0 + linha_saida: 2
+
+- destino: 2 + linha_entrada: 1
+
+- maquina | 1 | 0 | 4 | 0 | 0 |
+- trocado!
+
+
+
+----
+
+
+( size: **11**, random: **9)**
+ 
+
+( size: **2**, random: **1)**
+ 
+
+( size: **11**, random: **7)**
+ 
+## trocando a maquina...
+
+
+- tamanhos: (**origem:** 11 , **destino:** 11)
+- origem: 0 + linha_saida: 9
+
+- destino: 1 + linha_entrada: 7
+
+- maquina | 2 | 4 | 5 | 1 | 0 |
+- trocado!
+
+
+
+----
+
+
+( size: **10**, random: **4)**
+ 
+
+( size: **2**, random: **1)**
+ 
+
+( size: **12**, random: **8)**
+ 
+## Erro aqui! :x:
+## trocando a maquina...
+
+
+- tamanhos: (**origem:** 10 , **destino:** 12)
+- origem: 0 + linha_saida: 4
+
+- destino: 1 + linha_entrada: 8
+
+- maquina | 8 | 4 | 6 | 3 | 0 |
+- trocado!
+
+
+
+----
+
+
+( size: **9**, random: **4)**
+ 
+
+( size: **2**, random: **1)**
+ 
+
+( size: **13**, random: **5)**
+ 
+## Erro aqui! :x:
+## trocando a maquina...
+
+
+- tamanhos: (**origem:** 9 , **destino:** 13)
+- origem: 0 + linha_saida: 4
+
+- destino: 1 + linha_entrada: 5
+
+- maquina | 1 | 4 | 2 | 4 | 0 |
+- trocado!
+
+
+
+----
+
+
+( size: **8**, random: **7)**
+ 
+
+( size: **1**, random: **0)**
+ 
+
+( size: **8**, random: **3)**
+ 
+## trocando a maquina...
+
+
+- tamanhos: (**origem:** 8 , **destino:** 8)
+- origem: 0 + linha_saida: 7
+
+- destino: 0 + linha_entrada: 3
+
+- maquina | 1 | 4 | 7 | 4 | 0 |
+- trocado!
+
+
+
+----
+
+
+( size: **8**, random: **4)**
+ 
+
+( size: **2**, random: **0)**
+ 
+
+( size: **8**, random: **6)**
+ 
+## trocando a maquina...
+
+
+- tamanhos: (**origem:** 8 , **destino:** 8)
+- origem: 0 + linha_saida: 4
+
+- destino: 0 + linha_entrada: 6
+
+- maquina | 1 | 0 | 7 | 4 | 0 |
+- trocado!
+
+
+
+----
+
+
+( size: **8**, random: **2)**
+ 
+
+( size: **2**, random: **1)**
+ 
+
+( size: **12**, random: **4)**
+ 
+## Erro aqui! :x:
+## trocando a maquina...
+
+
+- tamanhos: (**origem:** 8 , **destino:** 12)
+- origem: 0 + linha_saida: 2
+
+- destino: 2 + linha_entrada: 4
+
+- maquina | 1 | 0 | 5 | 1 | 0 |
+- trocado!
+
+
+
+----
+
+
+( size: **7**, random: **2)**
+ 
+
+( size: **1**, random: **0)**
+ 
+
+( size: **7**, random: **6)**
+ 
+## trocando a maquina...
+
+
+- tamanhos: (**origem:** 7 , **destino:** 7)
+- origem: 0 + linha_saida: 2
+
+- destino: 0 + linha_entrada: 6
+
+- maquina | 1 | 4 | 7 | 4 | 0 |
+- trocado!
+
+
+
+----
+
+
+( size: **7**, random: **3)**
+ 
+
+( size: **1**, random: **0)**
+ 
+
+( size: **7**, random: **0)**
+ 
+## trocando a maquina...
+
+
+- tamanhos: (**origem:** 7 , **destino:** 7)
+- origem: 0 + linha_saida: 3
+
+- destino: 0 + linha_entrada: 0
+
+- maquina | 3 | 4 | 3 | 7 | 0 |
+- trocado!
+
+
+
+----
+
+
+( size: **7**, random: **3)**
+ 
+
+( size: **2**, random: **1)**
+ 
+
+( size: **13**, random: **3)**
+ 
+## Erro aqui! :x:
+## trocando a maquina...
+
+
+- tamanhos: (**origem:** 7 , **destino:** 13)
+- origem: 0 + linha_saida: 3
+
+- destino: 2 + linha_entrada: 3
+
+- maquina | 1 | 0 | 6 | 3 | 0 |
+- trocado!
+
+
+
+----
+
+
+( size: **6**, random: **0)**
+ 
+
+( size: **1**, random: **0)**
+ 
+
+( size: **6**, random: **5)**
+ 
+## trocando a maquina...
+
+
+- tamanhos: (**origem:** 6 , **destino:** 6)
+- origem: 0 + linha_saida: 0
+
+- destino: 0 + linha_entrada: 5
+
+- maquina | 3 | 4 | 3 | 7 | 0 |
+- trocado!
+
+
+
+----
+
+
+( size: **6**, random: **2)**
+ 
+
+( size: **2**, random: **0)**
+ 
+
+( size: **6**, random: **0)**
+ 
+## trocando a maquina...
+
+
+- tamanhos: (**origem:** 6 , **destino:** 6)
+- origem: 0 + linha_saida: 2
+
+- destino: 0 + linha_entrada: 0
+
+- maquina | 1 | 0 | 7 | 4 | 0 |
+- trocado!
+
+
+
+----
+
+
+( size: **6**, random: **1)**
+ 
+
+( size: **2**, random: **0)**
+ 
+
+( size: **6**, random: **0)**
+ 
+## trocando a maquina...
+
+
+- tamanhos: (**origem:** 6 , **destino:** 6)
+- origem: 0 + linha_saida: 1
+
+- destino: 0 + linha_entrada: 0
+
+- maquina | 3 | 0 | 0 | 3 | 3 |
+- trocado!
+
+
+
+----
+
+
+( size: **6**, random: **4)**
+ 
+
+( size: **1**, random: **0)**
+ 
+
+( size: **6**, random: **4)**
+ 
+## trocando a maquina...
+
+
+- tamanhos: (**origem:** 6 , **destino:** 6)
+- origem: 0 + linha_saida: 4
+
+- destino: 0 + linha_entrada: 4
+
+- maquina | 1 | 4 | 7 | 4 | 0 |
+- trocado!
+
+
+
+----
+
+
+( size: **6**, random: **2)**
+ 
+
+( size: **2**, random: **0)**
+ 
+
+( size: **6**, random: **1)**
+ 
+## trocando a maquina...
+
+
+- tamanhos: (**origem:** 6 , **destino:** 6)
+- origem: 0 + linha_saida: 2
+
+- destino: 0 + linha_entrada: 1
+
+- maquina | 3 | 0 | 1 | 3 | 0 |
+- trocado!
+
+
+
+----
+
+
+( size: **6**, random: **0)**
+ 
+
+( size: **2**, random: **0)**
+ 
+
+( size: **6**, random: **4)**
+ 
+## trocando a maquina...
+
+
+- tamanhos: (**origem:** 6 , **destino:** 6)
+- origem: 0 + linha_saida: 0
+
+- destino: 0 + linha_entrada: 4
+
+- maquina | 3 | 0 | 0 | 3 | 3 |
+- trocado!
+
+
+
+----
+
+
+( size: **6**, random: **1)**
+ 
+
+( size: **2**, random: **0)**
+ 
+
+( size: **6**, random: **1)**
+ 
+## trocando a maquina...
+
+
+- tamanhos: (**origem:** 6 , **destino:** 6)
+- origem: 0 + linha_saida: 1
+
+- destino: 0 + linha_entrada: 1
+
+- maquina | 1 | 0 | 7 | 4 | 0 |
+- trocado!
+
+
+
+----
+
+
+( size: **6**, random: **0)**
+ 
+
+( size: **2**, random: **1)**
+ 
+
+( size: **14**, random: **7)**
+ 
+## Erro aqui! :x:
+## trocando a maquina...
+
+
+- tamanhos: (**origem:** 6 , **destino:** 14)
+- origem: 0 + linha_saida: 0
+
+- destino: 2 + linha_entrada: 7
+
+- maquina | 3 | 0 | 1 | 3 | 0 |
+- trocado!
+
+
+
+----
+
+
+( size: **5**, random: **2)**
+ 
+
+( size: **1**, random: **0)**
+ 
+
+( size: **5**, random: **1)**
+ 
+## trocando a maquina...
+
+
+- tamanhos: (**origem:** 5 , **destino:** 5)
+- origem: 0 + linha_saida: 2
+
+- destino: 0 + linha_entrada: 1
+
+- maquina | 1 | 4 | 7 | 4 | 0 |
+- trocado!
+
+
+
+----
+
+
+( size: **5**, random: **0)**
+ 
+
+( size: **2**, random: **0)**
+ 
+
+( size: **5**, random: **0)**
+ 
+## trocando a maquina...
+
+
+- tamanhos: (**origem:** 5 , **destino:** 5)
+- origem: 0 + linha_saida: 0
+
+- destino: 0 + linha_entrada: 0
+
+- maquina | 1 | 0 | 7 | 4 | 0 |
+- trocado!
+
+
+
+----
+
+
+( size: **5**, random: **1)**
+ 
+
+( size: **1**, random: **0)**
+ 
+
+( size: **5**, random: **3)**
+ 
+## trocando a maquina...
+
+
+- tamanhos: (**origem:** 5 , **destino:** 5)
+- origem: 0 + linha_saida: 1
+
+- destino: 0 + linha_entrada: 3
+
+- maquina | 1 | 4 | 7 | 4 | 0 |
+- trocado!
+
+
+
+----
+
+
+( size: **5**, random: **1)**
+ 
+
+( size: **2**, random: **1)**
+ 
+
+( size: **15**, random: **7)**
+ 
+## Erro aqui! :x:
+## trocando a maquina...
+
+
+- tamanhos: (**origem:** 5 , **destino:** 15)
+- origem: 0 + linha_saida: 1
+
+- destino: 2 + linha_entrada: 7
+
+- maquina | 1 | 0 | 8 | 7 | 0 |
+- trocado!
+
+
+
+----
+
+
+( size: **4**, random: **2)**
+ 
+
+( size: **1**, random: **0)**
+ 
+
+( size: **4**, random: **2)**
+ 
+## trocando a maquina...
+
+
+- tamanhos: (**origem:** 4 , **destino:** 4)
+- origem: 0 + linha_saida: 2
+
+- destino: 0 + linha_entrada: 2
+
+- maquina | 1 | 4 | 7 | 4 | 0 |
+- trocado!
+
+
+
+----
+
+
+( size: **4**, random: **0)**
+ 
+
+( size: **2**, random: **1)**
+ 
+
+( size: **16**, random: **13)**
+ 
+## Erro aqui! :x:
+## trocando a maquina...
+
+
+- tamanhos: (**origem:** 4 , **destino:** 16)
+- origem: 0 + linha_saida: 0
+
+- destino: 2 + linha_entrada: 13
+
+- maquina | 1 | 0 | 7 | 4 | 0 |
+- trocado!
+
+
+
+----
+
+
+( size: **3**, random: **1)**
+ 
+
+( size: **1**, random: **0)**
+ 
+
+( size: **3**, random: **2)**
+ 
+## trocando a maquina...
+
+
+- tamanhos: (**origem:** 3 , **destino:** 3)
+- origem: 0 + linha_saida: 1
+
+- destino: 0 + linha_entrada: 2
+
+- maquina | 1 | 4 | 7 | 4 | 0 |
+- trocado!
+
+
+
+----
+
+
+( size: **3**, random: **1)**
+ 
+
+( size: **1**, random: **0)**
+ 
+
+( size: **3**, random: **2)**
+ 
+## trocando a maquina...
+
+
+- tamanhos: (**origem:** 3 , **destino:** 3)
+- origem: 0 + linha_saida: 1
+
+- destino: 0 + linha_entrada: 2
+
+- maquina | 3 | 4 | 3 | 7 | 0 |
+- trocado!
+
+
+
+----
+
+
+( size: **3**, random: **2)**
+ 
+
+( size: **1**, random: **0)**
+ 
+
+( size: **3**, random: **1)**
+ 
+## trocando a maquina...
+
+
+- tamanhos: (**origem:** 3 , **destino:** 3)
+- origem: 0 + linha_saida: 2
+
+- destino: 0 + linha_entrada: 1
+
+- maquina | 3 | 4 | 3 | 7 | 0 |
+- trocado!
+
+
+
+----
+
+
+( size: **3**, random: **0)**
+ 
+
+( size: **2**, random: **0)**
+ 
+
+( size: **3**, random: **1)**
+ 
+## trocando a maquina...
+
+
+- tamanhos: (**origem:** 3 , **destino:** 3)
+- origem: 0 + linha_saida: 0
+
+- destino: 0 + linha_entrada: 1
+
+- maquina | 3 | 0 | 0 | 3 | 3 |
+- trocado!
+
+
+
+----
+
+
+( size: **3**, random: **2)**
+ 
+
+( size: **1**, random: **0)**
+ 
+
+( size: **3**, random: **2)**
+ 
+## trocando a maquina...
+
+
+- tamanhos: (**origem:** 3 , **destino:** 3)
+- origem: 0 + linha_saida: 2
+
+- destino: 0 + linha_entrada: 2
+
+- maquina | 1 | 4 | 7 | 4 | 0 |
+- trocado!
+
+
+
+----
+
+
+( size: **3**, random: **1)**
+ 
+
+( size: **2**, random: **0)**
+ 
+
+( size: **3**, random: **2)**
+ 
+## trocando a maquina...
+
+
+- tamanhos: (**origem:** 3 , **destino:** 3)
+- origem: 0 + linha_saida: 1
+
+- destino: 0 + linha_entrada: 2
+
+- maquina | 3 | 0 | 0 | 3 | 3 |
+- trocado!
+
+
+
+----
+
+
+( size: **3**, random: **2)**
+ 
+
+( size: **2**, random: **1)**
+ 
+
+( size: **17**, random: **7)**
+ 
+## Erro aqui! :x:
+## trocando a maquina...
+
+
+- tamanhos: (**origem:** 3 , **destino:** 17)
+- origem: 0 + linha_saida: 2
+
+- destino: 2 + linha_entrada: 7
+
+- maquina | 3 | 0 | 0 | 3 | 3 |
+- trocado!
+
+
+**TEMPO MAXIMO SOL INICIAL =** 40
+## Equipe 0
+[10, 11]
+| janela | ind. Ativ. | origem | Inicial | esperou | historico |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| 3 | 4 | 3 | 7 | 0 | 10|
+| 1 | 4 | 7 | 4 | 0 | 11|
+
+
+## Equipe 1
+[4, 5, 6, 7, 9, 10, 13, 16, 18, 26, 29, 34, 37, 40]
+| janela | ind. Ativ. | origem | Inicial | esperou | historico |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| 1 | 2 | 0 | 3 | 3 | 4|
+| 1 | 2 | 1 | 3 | 0 | 5|
+| 1 | 2 | 2 | 4 | 0 | 6|
+| 1 | 4 | 0 | 3 | 0 | 7|
+| 2 | 2 | 3 | 7 | 1 | 9|
+| 1 | 4 | 2 | 4 | 0 | 10|
+| 3 | 2 | 4 | 0 | 0 | 13|
+| 3 | 2 | 5 | 1 | 0 | 16|
+| 2 | 4 | 5 | 1 | 0 | 18|
+| 8 | 4 | 6 | 3 | 0 | 26|
+| 3 | 2 | 6 | 3 | 0 | 29|
+| 5 | 4 | 4 | 0 | 0 | 34|
+| 3 | 2 | 7 | 4 | 0 | 37|
+| 3 | 2 | 8 | 7 | 0 | 40|
+
+
+## Equipe 2
+[5, 6, 8, 9, 10, 11, 14, 17, 18, 21, 25, 30, 32, 33, 34, 35, 37, 40]
+| janela | ind. Ativ. | origem | Inicial | esperou | historico |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| 2 | 3 | 0 | 3 | 3 | 5|
+| 1 | 0 | 4 | 0 | 0 | 6|
+| 1 | 0 | 3 | 7 | 0 | 8|
+| 1 | 0 | 6 | 3 | 0 | 9|
+| 1 | 3 | 1 | 3 | 0 | 10|
+| 1 | 0 | 5 | 1 | 0 | 11|
+| 3 | 3 | 2 | 4 | 0 | 14|
+| 3 | 0 | 0 | 3 | 3 | 17|
+| 1 | 0 | 8 | 7 | 0 | 18|
+| 3 | 0 | 1 | 3 | 0 | 21|
+| 4 | 0 | 2 | 4 | 0 | 25|
+| 5 | 3 | 3 | 7 | 0 | 30|
+| 2 | 3 | 4 | 0 | 0 | 32|
+| 1 | 3 | 5 | 1 | 0 | 33|
+| 1 | 0 | 7 | 4 | 0 | 34|
+| 1 | 3 | 6 | 3 | 0 | 35|
+| 2 | 3 | 7 | 4 | 0 | 37|
+| 3 | 3 | 8 | 7 | 0 | 40|
+
+
+TEMPO MAX INICIAL: 40
+
+TEMPO MAX FINAL: 40
