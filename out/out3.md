@@ -776,10 +776,7 @@ Equipe | Total | Utilizado | Livre |
 | janela | ind. Ativ. | origem | Inicial | esperou | historico |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 
-
-
 ----
 
 
 ( size: **33**, random: **8)**
- 

@@ -367,8 +367,6 @@ Equipe | Total | Utilizado | Livre |
 | 2 | 3 | 7 | 4 | 0 | 20|
 | 3 | 3 | 8 | 7 | 0 | 23|
 
-
-
 ----
 
 
